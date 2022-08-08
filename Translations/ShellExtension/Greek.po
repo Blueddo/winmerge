@@ -1,13 +1,14 @@
 # This file is part from WinMerge <https://winmerge.org/>
 # Released under the "GNU General Public License"
 #
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: https://bugs.winmerge.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2022-08-07 20:43+0200\n"
+"Last-Translator: Maikkoum\n"
 "Language-Team: Greek <winmerge-translate@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +16,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../ShellExtension/Languages\n"
 "Language: el\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. AFX_TARG_*
 #: ShellExtension.rc:19
@@ -43,29 +44,29 @@ msgstr "Επέκταση Περιβάλλοντος"
 #: ShellExtension.rc:112
 #, c-format
 msgid "&WinMerge"
-msgstr ""
+msgstr "&WinMerge"
 
 #: ShellExtension.rc:113
 #, c-format
 msgid "&Compare"
-msgstr ""
+msgstr "Σύγκριση"
 
 #: ShellExtension.rc:114
 #, c-format
 msgid "Compare&..."
-msgstr ""
+msgstr "Σύγκριση..."
 
 #: ShellExtension.rc:115
 #, c-format
 msgid "Select &Left"
-msgstr ""
+msgstr "Επιλέξτε &Αριστερό"
 
 #: ShellExtension.rc:116
 #, c-format
 msgid "Select &Middle"
-msgstr ""
+msgstr "Επιλέξτε &Μεσαίο"
 
 #: ShellExtension.rc:117
 #, c-format
 msgid "Re-select &Left"
-msgstr ""
+msgstr "Επανεπιλογή Αριστερού"
