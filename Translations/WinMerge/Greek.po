@@ -9,89 +9,82 @@ msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: https://bugs.winmerge.org/\n"
 "POT-Creation-Date: 2008-03-04 18:02+0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Polyvios J. Simopoulos <polyvios.j.simopoulos at gmail.com>\n"
-"Language-Team: English <winmerge-translate@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2022-08-21 20:12+0300\n"
+"Last-Translator: Maikkoum\n"
+"Language-Team: Greek <winmerge-translate@lists.sourceforge.net>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Greek\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Basepath: ../../Src/\n"
+"X-Poedit-Basepath: ../../Src\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. LANGUAGE, SUBLANGUAGE
-#, c-format
 msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
 msgstr "LANG_GREEK, SUBLANG_DEFAULT"
 
 msgid "Copy to Middle"
-msgstr ""
+msgstr "Αντιγραφή προς το Μεσαίο"
 
 msgid "C&opy to Right\tAlt+Right"
-msgstr "Αντιγραφή Δε&ξιά\tAlt+Right"
+msgstr "Α&ντιγραφή προς τα Δεξιά\tAlt+Right"
 
 msgid "Copy from Middle"
-msgstr ""
+msgstr "Αντιγραφή από το Μεσαίο"
 
 msgid "Copy fro&m Right\tAlt+Shift+Left"
-msgstr ""
+msgstr "Αντιγραφή απ&ό Δεξιά\tAlt+Shift+Left"
 
 msgid "Cop&y to Left\tAlt+Left"
-msgstr "Αντιγραφή Α&ριστερά\tAlt+Left"
+msgstr "Αντ&ιγραφή προς τα Αριστερά\tAlt+Left"
 
 msgid "Copy &from Left\tAlt+Shift+Right"
-msgstr ""
+msgstr "Αντιγραφή από Αριστερά\tAlt+Shift+Right"
 
 msgid "Copy Selected Line(s) to Middle"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών στο Μεσαίο"
 
 msgid "Copy Selected Line(s) to Right"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών στα Δεξιά"
 
 msgid "Copy Selected Line(s) from Middle"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών) από το Μεσαίο"
 
 msgid "Copy Selected Line(s) from Right"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών από τα Δεξιά"
 
 msgid "Copy Selected Line(s) to Left"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών στα Αριστερά"
 
 msgid "Copy Selected Line(s) from Left"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένης-ων γραμμης-ών από τα Αριστερά"
 
-#, c-format
 msgid "Select Line &Difference\tF4"
 msgstr "Επιλο&γή Διαφοράς Γραμμής\tF4"
 
 msgid "Add this change to Substitution &Filters"
-msgstr ""
+msgstr "Προσθέστε αυτή την αλλαγή στα Φίλτρα &Αντικατάστασης"
 
-#, c-format
 msgid "&Undo"
 msgstr "Α&ναίρεση"
 
-#, c-format
 msgid "&Redo"
 msgstr "Επανάλη&ψη"
 
-#, c-format
 msgid "Cu&t"
 msgstr "Απο&κοπή"
 
-#, c-format
 msgid "&Copy"
 msgstr "Αντι&γραφή"
 
-#, c-format
 msgid "&Paste"
 msgstr "Προ&σάρτηση"
 
-#, c-format
 msgid "&Scripts"
-msgstr "Μακ&ροεντολές"
+msgstr "&Μακροεντολές"
 
-#, c-format
 msgid "< Empty >"
 msgstr "< Άδειο >"
 
@@ -100,11 +93,14 @@ msgstr "Μετά&βαση...\tCtrl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
 msgstr ""
+"Μετάβαση στην Επιλογή Μετακίνηση Γραμμής Μεταξύ Αριστερού και Μεσαίου\tCtrl"
+"+Shift+G"
 
 msgid "Go to Moved Line Between Middle and Right\tCtrl+Alt+G"
 msgstr ""
+"Μετάβαση στην Επιλογή Μετακίνηση Γραμμής Μεταξύ Δεξιού και Μεσαίου\tCtrl+Alt"
+"+G"
 
-#, c-format
 msgid "Op&en"
 msgstr "Άν&οιγμα"
 
@@ -112,206 +108,181 @@ msgid "With &Registered Application"
 msgstr "Με Αντιστοιχισμένη Ε&φαρμογή"
 
 msgid "With &External Editor\tCtrl+Alt+E"
-msgstr "Μ&ε άλλη Εφαρμογή\tCtrl+Alt+E"
+msgstr "Με &άλλη Εφαρμογή\tCtrl+Alt+E"
 
 msgid "&With..."
-msgstr "Με..."
+msgstr "&Με..."
 
 msgid "Open &Parent Folder..."
-msgstr ""
+msgstr "Άνοιγμα &Γονικού Φακέλου..."
 
 msgid "S&hell Menu"
-msgstr ""
+msgstr "Μ&ενού Κελύφους"
 
 msgid "Use First Line as Headers"
-msgstr ""
+msgstr "Χρησιμοποιήστε την Πρώτη Γραμμή ως Επικεφαλίδες"
 
 msgid "Auto-Fit All Columns"
-msgstr ""
+msgstr "Αυτόματη Προσαρμογή Όλων Των Στηλών"
 
-#, c-format
 msgid "View &Differences"
-msgstr ""
+msgstr "Προβολή &Διαφορών"
 
-#, c-format
 msgid "Diff &Block Size"
-msgstr ""
+msgstr "Μέγεθος &Μπλοκ Διαφοράς"
 
-#, c-format
 msgid "&Ignore Color Difference (Color Distance Threshold)"
-msgstr ""
+msgstr "&Παράβλεψη Διαφοράς Χρώματος (Κατώφλι Χρωματικής Απόστασης)"
 
 msgid "Ins&ertion/Deletion Detection"
-msgstr ""
+msgstr "Ανίχνευση Εισαγωγής/Δια&γραφής"
 
-#, c-format
 msgid "&None"
 msgstr "&Απόκρυψη"
 
 msgid "&Vertical"
-msgstr ""
+msgstr "&Κάθετα"
 
 msgid "&Horizontal"
-msgstr ""
+msgstr "&Οριζόντια"
 
-#, c-format
 msgid "&Previous Page"
-msgstr ""
+msgstr "&Προηγούμενη Σελίδα"
 
-#, c-format
 msgid "&Next Page"
-msgstr ""
+msgstr "&Επόμενη Σελίδα"
 
-#, c-format
 msgid "&Active Pane"
-msgstr ""
+msgstr "&Ενεργό Παράθυρο"
 
 msgid "Rotate &Right 90deg"
-msgstr ""
+msgstr "Περιστροφή &Δεξιά 90μοίρες"
 
 msgid "Rotate &Left 90deg"
-msgstr ""
+msgstr "Περιστροφή &Αριστερά 90μοίρες"
 
 msgid "Flip V&ertically"
-msgstr ""
+msgstr "Κατακόρυφη Α&ναστροφή"
 
 msgid "Flip H&orizontally"
-msgstr ""
+msgstr "Οριζόντια Α&ναστροφή"
 
-#, c-format
 msgid "&Zoom"
 msgstr "&Ζουμ"
 
 #, c-format
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
-#, c-format
 msgid "Zoom &In\tCtrl++"
 msgstr "Ζουμ &Μεγέθυνση\tCtrl++"
 
-#, c-format
 msgid "Zoom &Out\tCtrl+-"
 msgstr "Ζουμ &Σμίκρυνση\tCtrl+-"
 
 #. Zoom to normal
-#, c-format
 msgid "&Normal\tCtrl+*"
 msgstr "&Κανονικό\tCtrl+*"
 
-#, c-format
 msgid "&Overlay"
-msgstr ""
+msgstr "&Επικάλυψη"
 
-#, c-format
 msgid "&Alpha Blend"
-msgstr ""
+msgstr "&Μείγμα Άλφα"
 
-#, c-format
 msgid "Alpha &Blend Animation"
-msgstr ""
+msgstr "Κινούμενη &Εικόνα Ανάμειξης Αλφα"
 
-#, c-format
 msgid "Dragging &Mode"
-msgstr ""
+msgstr "Λειτουργία &Σύρσιμο"
 
-#, c-format
 msgid "&Move"
 msgstr "&Μετακίνηση"
 
-#, c-format
 msgid "&Adjust Offset"
-msgstr ""
+msgstr "&Ρύθμιση Μετατόπισης"
 
 msgid "&Vertical Wipe"
-msgstr ""
+msgstr "&Κατακόρυφο Σκούπισμα"
 
 msgid "&Horizontal Wipe"
-msgstr ""
+msgstr "&Οριζόντιο Σκούπισμα"
 
 msgid "Rectangle &Select"
-msgstr ""
+msgstr "Επιλογή &Ορθογωνίου"
 
-#, c-format
 msgid "&Set Background Color"
-msgstr ""
+msgstr "&Ορισμός Χρώματος Φόντου"
 
 msgid "&Vector Image Scaling"
-msgstr ""
+msgstr "&Διανυσματική Κλιμάκωση Εικόνας"
 
 msgid "Compare Extracted &Text From Images"
-msgstr ""
+msgstr "Σύγκριση Εξαγόμενου &Κειμένου από Εικόνες"
 
 msgid "Co&mpare"
-msgstr ""
+msgstr "Σύ&γκριση"
 
 msgid "&Screenshots"
-msgstr ""
+msgstr "&Στιγμιότυπα"
 
 msgid "&Full Size Screenshots"
-msgstr ""
+msgstr "&Στιγμιότυπα Πλήρους Μεγέθους"
 
 msgid "&HTMLs"
-msgstr ""
+msgstr "&HTMLs"
 
 msgid "&Texts"
-msgstr ""
+msgstr "&Κείμενο"
 
 msgid "&Resource Trees"
-msgstr ""
+msgstr "&Δέντρα Πόρων"
 
 msgid "&Size"
-msgstr ""
+msgstr "Μέγεθος"
 
 msgid "Fit to Window"
-msgstr ""
+msgstr "Προσαρμογή στο Παράθυρο"
 
 msgid "Clear &Browsing Data"
-msgstr ""
+msgstr "Διαγραφή &Δεδομένων Περιήγησης"
 
 msgid "&Disk Cache"
-msgstr ""
+msgstr "&Προσωρινή Μνήμη Δίσκου"
 
 msgid "&Cookies"
-msgstr ""
+msgstr "&Cookies"
 
 msgid "&Browsing History"
-msgstr ""
+msgstr "&Ιστορικό Περιήγησης"
 
 msgid "&All Profile"
-msgstr ""
+msgstr "&Όλα τα Προφίλ"
 
-#, c-format
 msgid "&File"
 msgstr "&Αρχείο"
 
-#, c-format
 msgid "&New"
 msgstr "&Δημιουργία"
 
-#, c-format
 msgid "&Text"
-msgstr ""
+msgstr "&Κείμενο"
 
 msgid "T&able"
-msgstr ""
+msgstr "Π&ίνακας"
 
-#, c-format
 msgid "&Binary"
-msgstr ""
+msgstr "&Δυαδικό"
 
-#, c-format
 msgid "&Image"
-msgstr ""
+msgstr "&Εικόνα"
 
 msgid "&Webpage"
-msgstr ""
+msgstr "&Ιστοσελίδα"
 
-#, c-format
 msgid "New (&3 panes)"
-msgstr ""
+msgstr "Νέοι (&3 πίνακες)"
 
-#, c-format
 msgid "&Open...\tCtrl+O"
 msgstr "Άν&οιγμα...\tCtrl+O"
 
@@ -319,375 +290,289 @@ msgid "Open Conflic&t File..."
 msgstr "Άνοιγμα Αρχείου &Διενέξεων..."
 
 msgid "Open C&lipboard"
-msgstr ""
+msgstr "Άνοιγμα Π&ρόχειρου"
 
-#, c-format
 msgid "Open Pro&ject...\tCtrl+J"
 msgstr "Άνοιγμα Έρ&γου...\tCtrl+J"
 
-#, c-format
 msgid "Sa&ve Project..."
 msgstr "Απο&θήκευση Έργου..."
 
-#, c-format
 msgid "Recent Projects"
 msgstr "Πρόσ&φατα Έργα"
 
-#, c-format
 msgid "Recent F&iles Or Folders"
-msgstr ""
+msgstr "&Πρόσφατα Αρχεία Ή Φάκελοι"
 
 msgid "E&xit\tCtrl+Q"
 msgstr "Έξοδο&ς\tCtrl+Q"
 
-#, c-format
 msgid "&Edit"
 msgstr "&Επεξεργασία"
 
-#, c-format
 msgid "&Paste\tCtrl+V"
 msgstr "Προ&σάρτηση\tCtrl+V"
 
-#, c-format
 msgid "&Options..."
 msgstr "Επιλ&ογές..."
 
-#, c-format
 msgid "&View"
 msgstr "Πρ&οβολή"
 
-#, c-format
 msgid "&Toolbar"
 msgstr "Γραμμή Ε&ργαλείων"
 
-#, c-format
 msgid "&Small"
 msgstr "Μι&κρή"
 
-#, c-format
 msgid "&Big"
 msgstr "Με&γάλη"
 
-#, c-format
 msgid "&Huge"
-msgstr ""
+msgstr "&Τεράστια"
 
-#, c-format
 msgid "&Status Bar"
 msgstr "Γραμμή &Καταστάσεως"
 
-#, c-format
 msgid "Ta&b Bar"
 msgstr "Γραμμή Σε&λιδοδεικτών"
 
-#, c-format
 msgid "&Tools"
 msgstr "Εργα&λεία"
 
-#, c-format
 msgid "&Filters..."
 msgstr "&Φίλτρα..."
 
-#, c-format
 msgid "&Generate Patch..."
 msgstr "&Δημιουργία Patch..."
 
-#, c-format
 msgid "&Plugins"
 msgstr "Αρ&θρώματα"
 
-#, c-format
 msgid "P&lugin Settings..."
-msgstr ""
+msgstr "Ρ&υθμίσεις Πρόσθετων..."
 
-#, c-format
 msgid "Ma&nual Prediffer"
-msgstr ""
+msgstr "&Εγχειρίδιο Prediffer"
 
-#, c-format
 msgid "A&utomatic Prediffer"
-msgstr ""
+msgstr "Α&υτόματο Prediffer"
 
-#, c-format
 msgid "&Manual Unpacking"
 msgstr "Α&ποσυμπίεση από το Χρήστη"
 
-#, c-format
 msgid "&Automatic Unpacking"
 msgstr "Α&υτόματη Αποσυμπίεση"
 
-#, c-format
 msgid "&Reload plugins"
 msgstr "Επανέ&λεγχος Αρθρωμάτων"
 
-#, c-format
 msgid "&Window"
 msgstr "&Παράθυρο"
 
 msgid "Cl&ose\tCtrl+W"
 msgstr "Κ&λείσιμο\tCtrl+W"
 
-#, c-format
 msgid "Clo&se All"
 msgstr "Κλείσιμο όλ&ων"
 
-#, c-format
 msgid "Change &Pane\tF6"
 msgstr "Εναλλαγή μεταξύ Πε&δίων\tF6"
 
-#, c-format
 msgid "Tile &Horizontally"
 msgstr "Παράθεση Ορι&ζοντίως"
 
-#, c-format
 msgid "Tile &Vertically"
 msgstr "Παράθεση Κατα&κορύφως"
 
-#, c-format
 msgid "&Cascade"
 msgstr "Επικάλυ&ψη"
 
-#, c-format
 msgid "&Help"
 msgstr "&Βοήθεια"
 
-#, c-format
 msgid "&WinMerge Help\tF1"
 msgstr "Βοήθεια WinMerge\tF1"
 
-#, c-format
 msgid "R&elease Notes"
-msgstr ""
+msgstr "&Σημειώσεις Έκδοσης"
 
-#, c-format
 msgid "&Translations"
-msgstr ""
+msgstr "&Μεταφράσεις"
 
-#, c-format
 msgid "C&onfiguration"
 msgstr "&Ρυθμίσεις"
 
-#, c-format
 msgid "&GNU General Public License"
 msgstr "Γενική Δημοσία Άδεια &GNU"
 
-#, c-format
 msgid "&About WinMerge..."
 msgstr "&Περί του WinMerge..."
 
-#, c-format
 msgid "&Read-only"
-msgstr ""
+msgstr "&Μόνο για ανάγνωση"
 
-#, c-format
 msgid "L&eft Read-only"
-msgstr "Αριστερό για Ανάγ&νωση μόνο"
+msgstr "Α&ριστερό για Ανάγνωση μόνο"
 
-#, c-format
 msgid "M&iddle Read-only"
-msgstr ""
+msgstr "&Μεσαίο για Ανάγνωση μόνο"
 
-#, c-format
 msgid "Ri&ght Read-only"
 msgstr "Δεξιό για Ανάγν&ωση μόνο"
 
-#, c-format
 msgid "&File Encoding..."
 msgstr "&Κωδικοσελίδα Αρχείου..."
 
-#, c-format
 msgid "Select &All\tCtrl+A"
 msgstr "Επιλογή Ό&λων\tCtrl+A"
 
-#, c-format
 msgid "Show &Identical Items"
-msgstr "Εμφάνιση Πανομοιο&τύπων Στοιχείων"
+msgstr "Εμφάνιση &Πανομοιοτύπων Στοιχείων"
 
-#, c-format
 msgid "Show &Different Items"
 msgstr "Εμφάνιση &Διαφορετικών Στοιχείων"
 
-#, c-format
 msgid "Show L&eft Unique Items"
 msgstr "Εμφάνιση Ορφανών Στοιχείων Α&ριστερού"
 
-#, c-format
 msgid "Show Midd&le Unique Items"
-msgstr ""
+msgstr "Εμφάνιση Μεσαί&ων Μοναδικών Αντικειμένων"
 
-#, c-format
 msgid "Show Ri&ght Unique Items"
 msgstr "Εμφάνιση Ορφανών Στοιχείων Δε&ξιού"
 
-#, c-format
 msgid "Show S&kipped Items"
 msgstr "Εμφάνιση Αντι&παρελθέντων Στοιχείων"
 
-#, c-format
 msgid "S&how Binary Files"
 msgstr "Εμφάνιση &Δυαδικών Αρχείων"
 
-#, c-format
 msgid "&3-way Compare"
-msgstr ""
+msgstr "&3-τρόποι συγκρίσεις"
 
-#, c-format
 msgid "Show &Left Only Different Items"
-msgstr ""
+msgstr "Εμφάνιση &Μόνο Διαφορετικών Στοιχείων Αριστερά"
 
-#, c-format
 msgid "Show &Middle Only Different Items"
-msgstr ""
+msgstr "Εμφάνιση &Μόνο Διαφορετικών Στοιχείων Μεσαίο"
 
-#, c-format
 msgid "Show &Right Only Different Items"
-msgstr ""
+msgstr "Εμφάνιση &Μόνο Διαφορετικών Στοιχείων Δεξιά"
 
 msgid "Show L&eft Only Missing Items"
-msgstr ""
+msgstr "Εμφάνιση Στοιχείων Που Λείπουν Μόνο Για Α&ριστερά"
 
 msgid "Show Mi&ddle Only Missing Items"
-msgstr ""
+msgstr "Εμφάνιση Στοιχείων Που Λείπουν Μόνο Για Με&σαίο"
 
 msgid "Show Rig&ht Only Missing Items"
-msgstr ""
+msgstr "Εμφάνιση Στοιχείων Που Λείπουν Μόνο Για Δεξ&ιά"
 
-#, c-format
 msgid "Show Hidd&en Items"
 msgstr "Εμφάνιση Κρυ&φών Στοιχείων"
 
-#, c-format
 msgid "Tree &Mode"
-msgstr ""
+msgstr "Λειτουργία &Δέντρου"
 
-#, c-format
 msgid "E&xpand All Subfolders"
-msgstr ""
+msgstr "Αν&απτύξτε όλους τους υποφακέλους"
 
-#, c-format
 msgid "&Collapse All Subfolders"
-msgstr ""
+msgstr "&Σύμπτυξη όλων των υποφακέλων"
 
-#, c-format
 msgid "Select &Font..."
 msgstr "Επιλογή &Γραμματοσειράς..."
 
-#, c-format
 msgid "Use Default Font"
 msgstr "Χρήση Προκα&θορισμένης Γραμματοσειράς"
 
-#, c-format
 msgid "Sw&ap Panes"
 msgstr "Αντι&μετάθεση Πεδίων"
 
 msgid "Swap &1st | 2nd"
-msgstr ""
+msgstr "Εναλλαγή &1ο | 2ο"
 
 msgid "Swap &2nd | 3rd"
-msgstr ""
+msgstr "Εναλλαγή &2ο | 3ο"
 
 msgid "Swap 1st | &3rd"
-msgstr ""
+msgstr "Εναλλαγή &1ο | 3ο"
 
-#, c-format
 msgid "Com&pare Statistics..."
 msgstr "Στατιστικά Συγκρίσεως..."
 
-#, c-format
 msgid "Refresh\tF5"
 msgstr "Ανα&νέωση\tF5"
 
-#, c-format
 msgid "&Refresh Selected\tCtrl+F5"
 msgstr "Ανα&νέωση Επιλεγμένων\tCtrl+F5"
 
-#, c-format
 msgid "&Merge"
 msgstr "Συγ&χώνευση"
 
-#, c-format
 msgid "Co&mpare\tEnter"
 msgstr "&Σύγκριση\tEnter"
 
-#, c-format
 msgid "&Next Difference\tAlt+Down"
 msgstr "&Επομένη Διαφορά\tAlt+Down"
 
-#, c-format
 msgid "&Previous Difference\tAlt+Up"
 msgstr "Π&ροηγουμένη Διαφορά\tAlt+Up"
 
-#, c-format
 msgid "&First Difference\tAlt+Home"
 msgstr "&Πρώτη Διαφορά\tAlt+Home"
 
-#, c-format
 msgid "&Current Difference\tAlt+Enter"
 msgstr "Τ&ρέχουσα Διαφορά\tAlt+Enter"
 
-#, c-format
 msgid "&Last Difference\tAlt+End"
 msgstr "&Τελευταία Διαφορά\tAlt+End"
 
-#, c-format
 msgid "Copy to &Right\tAlt+Right"
-msgstr "Αντιγραφή Δε&ξιά\tAlt+Right"
+msgstr "Αντιγραφή προς τα &Δεξιά\tAlt+Right"
 
-#, c-format
 msgid "Copy to L&eft\tAlt+Left"
-msgstr "Αντιγραφή Α&ριστερά\tAlt+Left"
+msgstr "Αντιγραφή προς τα Α&ριστερά\tAlt+Left"
 
-#, c-format
 msgid "&Delete\tDel"
 msgstr "&Διαγραφή\tDel"
 
-#, c-format
 msgid "&Customize Columns..."
 msgstr "&Προσαρμογή Στηλών..."
 
-#, c-format
 msgid "Generate &Report..."
 msgstr "Δημιουργία Ανα&φοράς..."
 
-#, c-format
 msgid "&Edit with Unpacker..."
-msgstr ""
+msgstr "&Επεξεργασία με αποσυσκευασία..."
 
-#, c-format
 msgid "&Save\tCtrl+S"
 msgstr "Απο&θήκευση\tCtrl+S"
 
-#, c-format
 msgid "Sav&e"
-msgstr ""
+msgstr "Αποθήκευσ&η"
 
-#, c-format
 msgid "Save &Left"
-msgstr "Αποθήκευση Α&ριστερού"
+msgstr "Αποθήκευση &Αριστερού"
 
-#, c-format
 msgid "Save &Middle"
-msgstr ""
+msgstr "Αποθήκευση &Μεσαίου"
 
-#, c-format
 msgid "Save &Right"
 msgstr "Αποθήκευση Δε&ξιού"
 
-#, c-format
 msgid "Save &As"
-msgstr ""
+msgstr "Αποθήκευση &Ως"
 
-#, c-format
 msgid "Save &Left As..."
-msgstr ""
+msgstr "Αποθήκευση &Αριστερού ως..."
 
-#, c-format
 msgid "Save &Middle As..."
-msgstr ""
+msgstr "Αποθήκευση &Μεσαίου ως..."
 
-#, c-format
 msgid "Save &Right As..."
-msgstr ""
+msgstr "Αποθήκευση &Δεξιού ως..."
 
 msgid "&Print...\tCtrl+P"
 msgstr "Εκ&τύπωση...\tCtrl+P"
@@ -698,339 +583,270 @@ msgstr "Διάταξη &Σελίδας..."
 msgid "Print Previe&w..."
 msgstr "Προε&πισκόπηση Εκτυπώσεως..."
 
-#, c-format
 msgid "&Convert Line Endings to"
 msgstr "&Μετατροπή Χαρακτήρων Τερματισμού"
 
-#, c-format
 msgid "Mer&ge Mode\tF9"
 msgstr "Λειτουργία Συγ&χωνεύσεως\tF9"
 
 msgid "Reloa&d\tCtrl+F5"
-msgstr ""
+msgstr "Φ&όρτωση εκ νέου\tCtrl+F5"
 
-#, c-format
 msgid "Reco&mpare As"
-msgstr ""
+msgstr "Επανα&σύγκριση Ως"
 
-#, c-format
 msgid "&Undo\tCtrl+Z"
 msgstr "Α&ναίρεση\tCtrl+Z"
 
-#, c-format
 msgid "&Redo\tCtrl+Y"
 msgstr "Επανάλη&ψη\tCtrl+Y"
 
-#, c-format
 msgid "Cu&t\tCtrl+X"
 msgstr "Απο&κοπή\tCtrl+X"
 
-#, c-format
 msgid "&Copy\tCtrl+C"
 msgstr "Αντι&γραφή\tCtrl+C"
 
-#, c-format
 msgid "F&ind...\tCtrl+F"
 msgstr "Ανα&ζήτηση...\tCtrl+F"
 
-#, c-format
 msgid "Repla&ce...\tCtrl+H"
 msgstr "Αντικατά&σταση...\tCtrl+H"
 
-#, c-format
 msgid "&Marker...\tCtrl+Shift+M"
-msgstr ""
+msgstr "&Σημάδι...\tCtrl+Shift+M"
 
-#, c-format
 msgid "Advanced"
 msgstr "Ει&δικές Εντολές"
 
-#, c-format
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
 msgstr "Αντιγραφή με &Αρίθμηση Γραμμών\tCtrl+Shift+C"
 
-#, c-format
 msgid "&Bookmarks"
 msgstr "Σημάν&σεις"
 
-#, c-format
 msgid "&Toggle Bookmark\tCtrl+F2"
 msgstr "Μεταβολή Σημάν&σεως\tCtrl+F2"
 
-#, c-format
 msgid "&Next Bookmark\tF2"
 msgstr "Επο&μένη Σήμανση\tF2"
 
-#, c-format
 msgid "&Previous bookmark\tShift+F2"
 msgstr "Π&ροηγουμένη Σήμανση\tShift+F2"
 
-#, c-format
 msgid "&Clear All Bookmarks"
 msgstr "Κα&τάργηση όλων των Σημάνσεων"
 
-#, c-format
 msgid "Syntax Highlight"
 msgstr "&Χρωματισμός Κώδικα"
 
-#, c-format
 msgid "&Diff Context"
-msgstr ""
+msgstr "&Μέγεθος Διαφορών"
 
-#, c-format
 msgid "&All Lines"
-msgstr ""
+msgstr "&Όλες Οι Γραμμές"
 
-#, c-format
 msgid "&0 Lines"
-msgstr ""
+msgstr "&0 Γραμμές"
 
-#, c-format
 msgid "&1 Line"
-msgstr ""
+msgstr "&1 Γραμμή"
 
-#, c-format
 msgid "&3 Lines"
-msgstr ""
+msgstr "&3 Γραμμές"
 
-#, c-format
 msgid "&5 Lines"
-msgstr ""
+msgstr "&5 Γραμμές"
 
-#, c-format
 msgid "&7 Lines"
-msgstr ""
+msgstr "&7 Γραμμές"
 
-#, c-format
 msgid "&9 Lines"
-msgstr ""
+msgstr "&9 Γραμμές"
 
-#, c-format
 msgid "&Toggle All and 0-9 Lines\tCtrl+D"
-msgstr ""
+msgstr "&Εναλλαγή όλων και 0-9 γραμμές\tCtrl+D"
 
 msgid "&Invert (Hide Different Lines)"
-msgstr ""
+msgstr "&Αντιστροφή (Απόκρυψη διαφορετικών γραμμών)"
 
-#, c-format
 msgid "&Lock Panes"
 msgstr "&Πάγωμα Πεδίων"
 
-#, c-format
 msgid "&View Whitespace"
 msgstr "Εμ&φάνιση Χαρακτήρων Διαστήματος"
 
 msgid "View E&OL"
-msgstr ""
+msgstr "Προβολή Χαρακτήρας Τερματισμ&ού"
 
-#, c-format
 msgid "Vie&w Line Differences"
 msgstr "Εμ&φάνιση Διαφορών Γραμμών"
 
-#, c-format
 msgid "View Line &Numbers"
 msgstr "Εμφάνιση &Αριθμήσεως Γραμμών"
 
-#, c-format
 msgid "View &Margins"
 msgstr "Εμφάνιση Περι&θωρίων"
 
 msgid "View To&p Margins"
-msgstr ""
+msgstr "Εμφάνιση Περι&θωρίων"
 
-#, c-format
 msgid "W&rap Lines"
 msgstr "Ανα&δίπλωση Γραμμών"
 
-#, c-format
 msgid "Split V&ertically"
-msgstr ""
+msgstr "Διαχωρισμός Κ&άθετα"
 
-#, c-format
 msgid "Diff &Pane"
 msgstr "&Πεδίο Διαφορών"
 
-#, c-format
 msgid "Lo&cation Pane"
 msgstr "Πεδίο &Εντοπισμού"
 
-#, c-format
 msgid "Ne&xt Conflict\tAlt+Shift+Down"
-msgstr ""
+msgstr "Επόμε&νη Διένεξη\tAlt+Shift+Down"
 
-#, c-format
 msgid "Pre&vious Conflict\tAlt+Shift+Up"
-msgstr ""
+msgstr "Προ&ηγούμενη Διένεξη\tAlt+Shift+Up"
 
-#, c-format
 msgid "A&dvanced"
-msgstr ""
+msgstr "Σ&ύνθετο"
 
-#, c-format
 msgid "Next Difference Between Left and Middle\tAlt+1"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μεταξύ Αριστερού και Μεσαίου\tAlt+1"
 
-#, c-format
 msgid "Previous Difference Between Left And Middle\tAlt+Shift+1"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μεταξύ Αριστερού και Μεσαίου\tAlt+Shift+1"
 
-#, c-format
 msgid "Next Difference Between Left and Right\tAlt+2"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μεταξύ Αριστερού και Δεξιού\tAlt+2"
 
-#, c-format
 msgid "Previous Difference Between Left And Right\tAlt+Shift+2"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μεταξύ Αριστερού και Δεξιού\tAlt+Shift+2"
 
-#, c-format
 msgid "Next Difference Between Middle and Right\tAlt+3"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μεταξύ Μεσαίου και Δεξιού\tAlt+3"
 
-#, c-format
 msgid "Previous Difference Between Middle And Right\tAlt+Shift+3"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μεταξύ Μεσαίου και Δεξιού\tAlt+Shift+3"
 
-#, c-format
 msgid "Next Left Only Difference\tAlt+7"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μόνο Αριστερά\tAlt+7"
 
-#, c-format
 msgid "Previous Left Only Difference\tAlt+Shift+7"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μόνο Αριστερά\tAlt+Shift+7"
 
-#, c-format
 msgid "Next Middle Only Difference\tAlt+8"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μόνο Μεσαία"
 
-#, c-format
 msgid "Previous Middle Only Difference\tAlt+Shift+8"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μόνο Μεσαία"
 
-#, c-format
 msgid "Next Right Only Difference\tAlt+9"
-msgstr ""
+msgstr "Επόμενη Διαφορά Μόνο Δεξιά"
 
-#, c-format
 msgid "Previous Right Only Difference\tAlt+Shift+9"
-msgstr ""
+msgstr "Προηγούμενη Διαφορά Μόνο Δεξιά"
 
 msgid "Copy from &Left to"
-msgstr ""
+msgstr "Αντιγραφή από &Αριστερά σε"
 
-#, c-format
 msgid "&Middle"
-msgstr ""
+msgstr "&Μεσαίο"
 
-#, c-format
 msgid "&Right"
 msgstr "Δε&ξιό"
 
 msgid "Copy from &Middle to"
-msgstr ""
+msgstr "Αντιγραφή από το &Μεσαίο στο"
 
-#, c-format
 msgid "&Left"
 msgstr "Α&ριστερό"
 
 msgid "Copy from &Right to"
-msgstr ""
+msgstr "Αντιγραφή από το &Δεξιό στο"
 
 msgid "Copy Selected Line(s) from Le&ft to"
-msgstr ""
+msgstr "Αντιγραφή επιλεγμένων γραμμών από Αρ&ιστερά σε"
 
 msgid "Copy Selected Line(s) from Mi&ddle to"
-msgstr ""
+msgstr "Αντιγραφή Επιλεγμένων Γραμμών στο Με&σαίο"
 
 msgid "Copy Selected Line(s) from Ri&ght to"
-msgstr ""
+msgstr "Αντιγραφή Επιλεγμένων Γραμμών από Δε&ξιά σε"
 
-#, c-format
 msgid "Copy from Left\tAlt+Shift+Right"
-msgstr ""
+msgstr "Αντιγραφή από Αριστερά\tAlt+Shift+Right"
 
-#, c-format
 msgid "Copy from Right\tAlt+Shift+Left"
-msgstr ""
+msgstr "Αντιγραφή από Δεξιά\tAlt+Shift+Left"
 
 msgid "C&opy to Right and Advance\tCtrl+Alt+Right"
-msgstr "Αντιγραφή Δε&ξιά και Μετάβαση σε επομένη\tCtrl+Alt+Right"
+msgstr "Α&ντιγραφή προς τα Δεξιά και Μετάβαση σε επομένη\tCtrl+Alt+Right"
 
 msgid "Copy &to Left and Advance\tCtrl+Alt+Left"
-msgstr "Αντιγραφή Α&ριστερά και Μετάβαση σε επομένη\tCtrl+Alt+Left"
+msgstr "Αντιγραφή &προς τα Αριστερά και Μετάβαση σε Επομένη\tCtrl+Alt+Left"
 
-#, c-format
 msgid "Copy &All to Right"
 msgstr "Αντιγραφή όλων &Δεξιά"
 
-#, c-format
 msgid "Cop&y All to Left"
 msgstr "Αντιγραφή όλων &Αριστερά"
 
 msgid "A&uto Merge\tCtrl+Alt+M"
-msgstr ""
+msgstr "Α&υτόματη συγχώνευση\tCtrl+Alt+M"
 
-#, c-format
 msgid "Add &Synchronization Point\tAlt+S"
-msgstr ""
+msgstr "Προσθήκη &Σημείου Συγχρονισμού\tAlt+S"
 
-#, c-format
 msgid "Clear Sync&hronization Points"
-msgstr ""
+msgstr "Απαλοιφή Σημε&ίων Συγχρονισμού"
 
 msgid "Unpac&ker"
-msgstr ""
+msgstr "Αποσυσκ&ευαστής"
 
-#, c-format
 msgid "&Prediffer"
 msgstr "Προεπε&ξεργαστής Διαφορών"
 
 msgid "Apply Pre&differ..."
-msgstr ""
+msgstr "Ε&φαρμογή Pre&differ..."
 
 msgid "&Transform with editor script..."
-msgstr ""
+msgstr "Μακροεντολές Επεξεργαστή Κειμένου..."
 
-#, c-format
 msgid "Sp&lit"
-msgstr ""
+msgstr "Διαίρ&εση"
 
-#, c-format
 msgid "Comp&are"
 msgstr "&Σύγκριση"
 
 msgid "Compare in new &window"
-msgstr ""
+msgstr "Σύγκριση σε νέο &παράθυρο"
 
 msgid "Compare Non-hor&izontally..."
-msgstr ""
+msgstr "Σύγκριση Μη Ορι&ζόντια..."
 
-#, c-format
 msgid "Compare Non-hor&izontally"
-msgstr ""
+msgstr "Σύγκριση Μη Ορι&ζόντια"
 
-#, c-format
 msgid "First &left item with second left item"
-msgstr ""
+msgstr "Πρώτο &αριστερό στοιχείο με δεύτερο αριστερό στοιχείο"
 
-#, c-format
 msgid "First &right item with second right item"
-msgstr ""
+msgstr "Πρώτο &δεξιό στοιχείο με δεύτερο δεξιό στοιχείο"
 
-#, c-format
 msgid "&First left item with second right item"
-msgstr ""
+msgstr "&Πρώτο αριστερό στοιχείο με δεύτερο δεξιό στοιχείο"
 
-#, c-format
 msgid "&Second left item with first right item"
-msgstr ""
+msgstr "&Δεύτερο αριστερό στοιχείο με πρώτο δεξιό στοιχείο"
 
-#, c-format
 msgid "Co&mpare As"
-msgstr ""
+msgstr "Σύ&γκριση Ως"
 
 #, c-format
 msgid "Left to Middle (%1 of %2)"
-msgstr ""
+msgstr "Αριστερό στο Μεσαίο (%1 από %2)"
 
 #, c-format
 msgid "Left to Right (%1 of %2)"
@@ -1042,19 +858,19 @@ msgstr "Αριστερό στο... (%1 από %2)"
 
 #, c-format
 msgid "Middle to Left (%1 of %2)"
-msgstr ""
+msgstr "Μεσαίο στο Αριστερό (%1 από %2)"
 
 #, c-format
 msgid "Middle to Right (%1 of %2)"
-msgstr ""
+msgstr "Μεσαίο στο Δεξιό (%1 από %2)"
 
 #, c-format
 msgid "Middle to... (%1 of %2)"
-msgstr ""
+msgstr "Μεσαίο στο... (%1 of %2)"
 
 #, c-format
 msgid "Right to Middle (%1 of %2)"
-msgstr ""
+msgstr "Δεξιό στο Μεσαίο (%1 από %2)"
 
 #, c-format
 msgid "Right to Left (%1 of %2)"
@@ -1064,39 +880,30 @@ msgstr "Δεξιό στο Αριστερό (%1 από %2)"
 msgid "Right to... (%1 of %2)"
 msgstr "Δεξιό στο... (%1 από %2)"
 
-#, c-format
 msgid "&Delete"
 msgstr "&Διαγραφή"
 
-#, c-format
 msgid "&Both"
 msgstr "Αμ&φότερα"
 
-#, c-format
 msgid "&All"
-msgstr ""
+msgstr "&Όλα"
 
-#, c-format
 msgid "Re&name"
 msgstr "Μετο&νομασία"
 
-#, c-format
 msgid "&Hide Items"
 msgstr "Απόκρυ&ψη Αντικειμένων"
 
-#, c-format
 msgid "&Open Left"
 msgstr "Άνοιγμα Α&ριστερού"
 
-#, c-format
 msgid "Open Midd&le"
-msgstr ""
+msgstr "Άνοιγμα &Μεσαίου"
 
-#, c-format
 msgid "O&pen Right"
 msgstr "Άνοιγμα Δε&ξιού"
 
-#, c-format
 msgid "Cop&y Pathnames"
 msgstr "Αντιγραφή Δια&δρομών"
 
@@ -1106,7 +913,7 @@ msgstr "Αριστερό (%1 από %2)"
 
 #, c-format
 msgid "Middle (%1 of %2)"
-msgstr ""
+msgstr "Μεσαίο (%1 από %2)"
 
 #, c-format
 msgid "Right (%1 of %2)"
@@ -1118,666 +925,537 @@ msgstr "Αμφότερα (%1από %2)"
 
 #, c-format
 msgid "All (%1 of %2)"
-msgstr ""
+msgstr "Όλα (%1 of %2)"
 
-#, c-format
 msgid "Copy &Filenames"
 msgstr "Αντιγραφή Ο&νομάτων"
 
-#, c-format
 msgid "Copy Items To Clip&board"
-msgstr ""
+msgstr "Αντιγραφή Αντικειμένων στο Πρό&χειρο"
 
-#, c-format
 msgid "&Zip"
-msgstr ""
+msgstr "&Zip"
 
 #, c-format
 msgid "Both to... (%1 of %2)"
-msgstr ""
+msgstr "Αμφότερα σε... (%1 από %2)"
 
 #, c-format
 msgid "All to... (%1 of %2)"
-msgstr ""
+msgstr "Όλα σε... (%1 από %2)"
 
 #, c-format
 msgid "Differences to... (%1 of %2)"
-msgstr ""
+msgstr "Διαφορές σε... (%1 από %2)"
 
-#, c-format
 msgid "Left Shell menu"
-msgstr ""
+msgstr "Αριστερό μενού Κελύφους"
 
-#, c-format
 msgid "Middle Shell menu"
-msgstr ""
+msgstr "Μεσαίου μενού Κελύφους"
 
-#, c-format
 msgid "Right Shell menu"
-msgstr ""
+msgstr "Δεξί μενού Κελύφους"
 
-#, c-format
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
-#, c-format
 msgid "&Copy Full Path"
-msgstr "Αντιγραφή πλήρους Δια&δρομής"
+msgstr "Αντιγραφή Πλήρους Δια&δρομής"
 
-#, c-format
 msgid "Copy &Filename"
 msgstr "Αντιγραφή Ο&νόματος"
 
 msgid "&Edit Caption"
-msgstr ""
+msgstr "&Επεξεργασία Λεζάντας"
 
-#, c-format
 msgid "&Select..."
 msgstr "&Επιλογή..."
 
 msgid "Unpacker Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Αποσυσκευαστή"
 
-#, c-format
 msgid "<None>"
 msgstr "<Ουδέν>"
 
-#, c-format
 msgid "<Automatic>"
 msgstr "<Αυτόματο>"
 
-#, c-format
 msgid "Prediffer Settings"
 msgstr "Ρυθμίσεις Προεπεξεργαστή Διαφορών"
 
 msgid "G&o to Diff"
 msgstr "Μετά&βαση σε Διαφορά"
 
-#, c-format
 msgid "&No Moved Blocks"
 msgstr "Όχι μετακινηθέντα Τμήματα"
 
-#, c-format
 msgid "&All Moved Blocks"
 msgstr "Ό&λα τα μετακινηθέντα Τμήματα"
 
-#, c-format
 msgid "W&hitespaces"
 msgstr "Χαρακτήρες &Διαστήματος"
 
-#, c-format
 msgid "Com&pare"
 msgstr "Σύγ&κριση"
 
-#, c-format
 msgid "I&gnore changes"
 msgstr "Οι μεταβολές να Α&γνοηθούν"
 
-#, c-format
 msgid "Ig&nore all"
 msgstr "Να Αγνοηθούν Ό&λα"
 
-#, c-format
 msgid "Ignore blan&k lines"
 msgstr "Οι &κενές γραμμές να αγνοούνται"
 
-#, c-format
 msgid "Ignore &case"
 msgstr "Διάκριση μεταξύ Πεζών/&Κεφαλαίων ανενεργός"
 
-#, c-format
 msgid "Igno&re carriage return differences (Windows/Unix/Mac)"
 msgstr "Διαφορές χαρακτήρων &τερματισμού (Win/Unix/Mac) να αγνοούνται"
 
-#, c-format
 msgid "Ignore codepage &differences"
-msgstr ""
+msgstr "Παράβλεψη διαφορών &κωδικοποίησης"
 
 msgid "Ignore num&bers"
-msgstr ""
+msgstr "Αγνόηση αρι&θμών"
 
 msgid "Ignore c&omment differences"
-msgstr ""
+msgstr "Αγνόηση δ&ιαφορών στα σχόλια"
 
-#, c-format
 msgid "&Include Subfolders"
 msgstr "Οι Υποφάκελοι να &συμπεριληφθούν"
 
-#, c-format
 msgid "&Compare method:"
-msgstr ""
+msgstr "&Μέθοδος σύγκρισης:"
 
-#, c-format
 msgid "Full Contents"
 msgstr "Πλήρης Περιεχομένων"
 
-#, c-format
 msgid "Quick Contents"
 msgstr "Σύντομη Περιεχομένων"
 
-#, c-format
 msgid "Binary Contents"
-msgstr ""
+msgstr "Δυαδικά Περιεχόμενα"
 
-#, c-format
 msgid "Modified Date"
 msgstr "Ημερομηνία Τροποποιήσεως"
 
-#, c-format
 msgid "Modified Date and Size"
 msgstr "Ημερομηνία Τροποποιήσεως και Μέγεθος"
 
-#, c-format
 msgid "Size"
 msgstr "Μέγεθος"
 
-#, c-format
 msgid "&Load Project..."
-msgstr ""
+msgstr "&Φόρτωση Eργου..."
 
-#, c-format
 msgid "About WinMerge"
 msgstr "Περί του WinMerge"
 
 msgid "Visit the WinMerge Homepage!"
 msgstr "Επισκεφθείτε το Σταθμό του WinMerge!"
 
-#, c-format
 msgid "OK"
 msgstr "ΟΚ"
 
-#, c-format
 msgid "Contributors"
 msgstr "Συντελεστές"
 
-#, c-format
 msgid "Select Files or Folders"
 msgstr "Επιλογή Αρχείων ή Φακέλων"
 
-#, c-format
 msgid "&1st File or Folder"
-msgstr ""
+msgstr "&1ο Αρχείο ή Φάκελος"
 
-#, c-format
 msgid "Re&ad-only"
 msgstr "Μόνο για Ανά&γνωση"
 
-#, c-format
 msgid "Swap 1st | 2nd"
-msgstr ""
+msgstr "Εναλλαγή &1ο | 2ο"
 
-#, c-format
 msgid "&Browse..."
 msgstr "Ανα&ζήτηση..."
 
-#, c-format
 msgid "&2nd File or Folder"
-msgstr ""
+msgstr "&2ο Αρχείο ή Φάκελος"
 
-#, c-format
 msgid "Rea&d-only"
-msgstr ""
+msgstr "Μόν&ο για Ανάγνωση"
 
-#, c-format
 msgid "Swap 2nd | 3rd"
-msgstr ""
+msgstr "Εναλλαγή &2ο | 3ο"
 
-#, c-format
 msgid "B&rowse..."
 msgstr "Ανα&ζήτηση..."
 
-#, c-format
 msgid "&3rd File or Folder (Optional)"
-msgstr ""
+msgstr "&3ο Αρχείο ή Φάκελος (Προαιρετικό)"
 
-#, c-format
 msgid "Read-o&nly"
-msgstr ""
+msgstr "Μόνο για Α&νάγνωση"
 
-#, c-format
 msgid "Swap 1st | 3rd"
-msgstr ""
+msgstr "Εναλλαγή &1ο | 3ο"
 
-#, c-format
 msgid "Browse..."
 msgstr "Ανα&ζήτηση..."
 
-#, c-format
 msgid " Folder: Filter"
-msgstr ""
+msgstr " Φάκελος: Φίλτρο"
 
-#, c-format
 msgid " File: Unpacker Plugin"
-msgstr ""
+msgstr " Αρχείο: Πρόσθετο Αποσυμπίεσης"
 
-#, c-format
 msgid "Se&lect..."
-msgstr ""
+msgstr "Επ&ιλογή..."
 
-#, c-format
 msgid "Cancel"
 msgstr "Ά&κυρο"
 
-#, c-format
 msgid "Status:"
 msgstr "Κατάσταση:"
 
-#, c-format
 msgid "Help"
 msgstr "Βοήθεια"
 
-#, c-format
 msgid "General"
 msgstr "Γενικά"
 
-#, c-format
 msgid "Automatically &scroll to first difference"
 msgstr "Αυτόματη &κύλιση στην πρώτη διαφορά"
 
 msgid "Automatically s&croll to first inline difference"
-msgstr ""
+msgstr "Αυτόματη κ&ύλιση στην πρώτη διαφορά γραμμής"
 
 msgid "Cl&ose windows with 'Esc':"
 msgstr "Κ&λείσιμο παραθύρων με 'Esc':"
 
-#, c-format
 msgid "&Automatically verify paths in Open-dialog"
 msgstr "&Αυτόματη επαλήθευση διαδρομών στο διάλογο ανοίγματος"
 
 msgid "Single instance mode:"
-msgstr ""
+msgstr "Επιτρέπεται μόνο μία υπόσταση του WinMerge ανοικτή:"
 
-#, c-format
 msgid "As&k when closing multiple windows"
 msgstr "Ερώτηση πριν από το κλείσιμο πολλαπλών παραθύρων"
 
-#, c-format
 msgid "&Preserve file time in file compare"
 msgstr "Δια&τήρηση της ώρας τροποποιήσεως κατά τη σύγκριση αρχείων"
 
-#, c-format
 msgid "Show \"Select Files or Folders\" Dialog on Startup"
 msgstr ""
+"Εμφάνιση παράθυρου διαλόγου \"Επιλογή Αρχείων ή Φακέλων\" κατά την εκκίνηση"
 
 msgid "Close \"Select Files or Folders\" Dialog on clicking Compare button"
 msgstr ""
+"Κλείσιμο παράθυρου διαλόγου \"Επιλογή Αρχείων ή Φακέλων\" κάνοντας κλικ στο "
+"κουμπί Σύγκριση"
 
-#, c-format
 msgid "Op&en-dialog Auto-Completion:"
-msgstr "Αυτόματη συμπλήρωση διαλόγου αν&οίγματος"
+msgstr "Αυτόματη συμπλήρωση διαλόγου αν&οίγματος:"
 
-#, c-format
 msgid "Language:"
-msgstr ""
+msgstr "Γλώσσα:"
 
-#, c-format
 msgid "Find"
 msgstr "Αναζήτηση"
 
-#, c-format
 msgid "Fi&nd what:"
 msgstr "Ανα&ζήτηση για:"
 
-#, c-format
 msgid "Match &whole word only"
 msgstr "Εύρεση ολοκλήρων &λέξεων μόνο"
 
-#, c-format
 msgid "Match &case"
 msgstr "Διάκριση Πεζών/&Κεφαλαίων"
 
-#, c-format
 msgid "Regular &expression"
 msgstr "Τυποποιημένη Έκ&φραση"
 
-#, c-format
 msgid "D&on't wrap end of file"
 msgstr "Χωρίς ανα&δίπλωση στο τέλος του αρχείου"
 
-#, c-format
 msgid "&Don't close this dialog box"
-msgstr ""
+msgstr "&Να μην κλείνει αυτό το παράθυρο διαλόγου"
 
-#, c-format
 msgid "&Find Next"
 msgstr "Εύρεση &Επομένου"
 
-#, c-format
 msgid "Find &Prev"
-msgstr ""
+msgstr "Εύρεση &Προηγ"
 
-#, c-format
 msgid "&Ok"
 msgstr "&ΟΚ"
 
-#, c-format
 msgid "Replace"
 msgstr "Αντικατάσταση"
 
-#, c-format
 msgid "Re&place with:"
 msgstr "Αντι&κατάσταση με:"
 
-#, c-format
 msgid "&Don't wrap end of file"
 msgstr "Χωρίς ανα&δίπλωση στο τέλος του αρχείου"
 
-#, c-format
 msgid "Replace in"
 msgstr "Αντικατάσταση εντός"
 
-#, c-format
 msgid "&Selection"
 msgstr "&Επιλογής"
 
-#, c-format
 msgid "Wh&ole file"
 msgstr "Ό&λου του Αρχείου"
 
 msgid "Find Pre&v"
-msgstr ""
+msgstr "Εύρεση Προη&γ"
 
-#, c-format
 msgid "&Replace"
 msgstr "Αντι&κατάσταση"
 
-#, c-format
 msgid "Replace &All"
 msgstr "Αντικατάσταση Ό&λων"
 
-#, c-format
 msgid "Markers"
-msgstr ""
+msgstr "Σημάνσεις"
 
-#, c-format
 msgid "Enable &Markers"
-msgstr ""
+msgstr "Ενεργοποίηση &Σημάνσεων"
 
-#, c-format
 msgid "New"
 msgstr "Δημιουργία"
 
-#, c-format
 msgid "&Background color:"
-msgstr ""
+msgstr "&Χρώμα φόντου:"
 
-#, c-format
 msgid "&Apply"
 msgstr "Ε&φαρμογή"
 
 msgid "Line Filters"
-msgstr ""
+msgstr "Φίλτρα Γραμμής"
 
-#, c-format
 msgid "Enable Line Filters"
 msgstr "Ενεργοποίηση Φίλτρων Γραμμών"
 
-#, c-format
 msgid "Regular Expressions (one per line):"
 msgstr "Τυποποιημένες Εκ&φράσεις (μία ανά γραμμή):"
 
-#, c-format
 msgid "Edit"
 msgstr "Επεξεργασία"
 
-#, c-format
 msgid "Remove"
 msgstr "Διαγραφή"
 
 msgid "Substitution Filters"
-msgstr ""
+msgstr "Φίλτρα Αντικατάστασης"
 
-msgid "The changes that appear on the panels as the listed pairs below will be ignored or marked as insignificant. Patches are unaffected."
+msgid ""
+"The changes that appear on the panels as the listed pairs below will be "
+"ignored or marked as insignificant. Patches are unaffected."
 msgstr ""
+"Οι αλλαγές που εμφανίζονται στους πίνακες ως τα παρακάτω ζεύγη θα αγνοηθούν "
+"ή θα επισημανθούν ως ασήμαντες. Τα μπαλώματα δεν επηρεάζονται."
 
 msgid "Enable"
-msgstr ""
+msgstr "Ενεργοποίηση"
 
 msgid "Add"
-msgstr ""
+msgstr "Προσθήκη"
 
 msgid "Clear"
-msgstr ""
+msgstr "Διαγραφή"
 
-#, c-format
 msgid "Colors"
 msgstr "Χρώματα"
 
 msgid "Color Scheme:"
-msgstr ""
+msgstr "Χρωματικός Συνδυασμός:"
 
-#, c-format
 msgid "Background"
 msgstr "Φόντο"
 
-#, c-format
 msgid "Deleted"
 msgstr "Διαγραφέντα"
 
-#, c-format
 msgid "Text"
 msgstr "Κείμενο"
 
-#, c-format
 msgid "Difference:"
 msgstr "Διαφορά:"
 
-#, c-format
 msgid "Selected Difference:"
 msgstr "Επιλεγμένη Διαφορά:"
 
-#, c-format
 msgid "Ignored Difference:"
-msgstr "Αγνοηθείσα Διαφορά"
+msgstr "Αγνοηθείσα Διαφορά:"
 
-#, c-format
 msgid "Moved:"
 msgstr "Μετακινηθέντα:"
 
-#, c-format
 msgid "Selected Moved:"
 msgstr "Επιλεγμένα Μετακινηθέντα:"
 
-#, c-format
 msgid "Same As The Next (3 panes):"
-msgstr ""
+msgstr "Ίδιο Με Το Επόμενο (3 πίνακες):"
 
-#, c-format
 msgid "Same As The Next (Selected):"
-msgstr ""
+msgstr "Ίδιο Με Το Επόμενο (Επιλεγμένο):"
 
-#, c-format
 msgid "Word Difference:"
 msgstr "Διαφορά Λέξεως:"
 
-#, c-format
 msgid "Selected Word Diff:"
 msgstr "Επιλεγμένη Διαφορά Λέξεως:"
 
 msgid "&Use folder compare colors"
-msgstr ""
+msgstr "&Χρήση χρωμάτων σύγκρισης φακέλων"
 
 msgid "Items equal:"
-msgstr ""
+msgstr "Αντικείμενα ισάξια:"
 
 msgid "Items different:"
-msgstr ""
+msgstr "Διαφορά αντικειμένων:"
 
 msgid "Items not exists all:"
-msgstr ""
+msgstr "Τα αντικείμενα δεν υπάρχουν όλα:"
 
 msgid "Items filtered:"
-msgstr ""
+msgstr "Φιλτραρισμένα αντικειμένα:"
 
-#, c-format
 msgid "Margin:"
-msgstr ""
+msgstr "Περιθώριο:"
 
-#, c-format
 msgid "System"
 msgstr "Σύστημα"
 
-#, c-format
 msgid "&Send deleted files to Recycle Bin"
 msgstr "Αποστολή διαγραφέντων αρχείων στον &Κάδο Ανακυκλώσεως"
 
-#, c-format
 msgid "&External editor:"
 msgstr "Επεξεργασία με &άλλη εφαρμογή:"
 
-#, c-format
 msgid "&Filter folder:"
 msgstr "Φάκελος &Φίλτρων:"
 
-#, c-format
 msgid "Temporary files folder"
 msgstr "Φάκελος προσωρινών αρχείων"
 
-#, c-format
 msgid "S&ystem's temp folder"
 msgstr "Φάκελος προσωρινών αρχείων ορίζεται από το &Σύστημα"
 
-#, c-format
 msgid "C&ustom folder:"
 msgstr "Προ&τιμώμενος Φάκελος:"
 
-#, c-format
 msgid "Br&owse..."
 msgstr "Ανα&ζήτηση..."
 
-#, c-format
 msgid "Patch Generator"
 msgstr "Εφαρμογή Δημιουργίας Patch"
 
-#, c-format
 msgid "File&1:"
 msgstr "Αρχείο&1:"
 
-#, c-format
 msgid "File&2:"
 msgstr "Αρχείο&2:"
 
-#, c-format
 msgid "&Swap"
 msgstr "Αντιμετά&θεση"
 
-#, c-format
 msgid "&Copy to Clipboard"
-msgstr "Αντι&γραφή στο Πρόχειρο"
+msgstr "&Αντιγραφή στο Πρόχειρο"
 
-#, c-format
 msgid "&Append to existing file"
 msgstr "Προσάρτηση σε υπάρχον αρχείο"
 
-#, c-format
 msgid "&Result:"
 msgstr "&Αποτέλεσμα:"
 
-#, c-format
 msgid "Bro&wse..."
 msgstr "Ανα&ζήτηση..."
 
-#, c-format
 msgid "&Format"
 msgstr "Μορ&φή"
 
-#, c-format
 msgid "St&yle:"
 msgstr "Στ&υλ:"
 
-#, c-format
 msgid "&Context:"
 msgstr "&Περιβ. Κείμ.:"
 
-#, c-format
 msgid "Inclu&de command line"
 msgstr "Η γραμμή εντολής να συμπεριλαμβάνεται"
 
-#, c-format
 msgid "Open to e&xternal editor"
 msgstr "Άν&οιγμα με άλλη εφαρμογή επεξεργασίας"
 
-#, c-format
 msgid "Defaults"
 msgstr "&Αρχικές Ρυθμίσεις"
 
-#, c-format
 msgid "Display Columns"
 msgstr "Εμφάνιση Στηλών"
 
-#, c-format
 msgid "Move &Up"
 msgstr "Μετακίνηση προς τα &άνω"
 
-#, c-format
 msgid "Move &Down"
 msgstr "Μετακίνηση προς τα &κάτω"
 
 msgid "&Additional Properties"
-msgstr ""
+msgstr "&Πρόσθετες Ιδιότητες"
 
 msgid "Additional Properties"
-msgstr ""
+msgstr "Πρόσθετες Ιδιότητες"
 
 msgid "&>"
-msgstr ""
+msgstr "&>"
 
 msgid "&<"
-msgstr ""
+msgstr "&<"
 
 msgid "<<"
-msgstr ""
+msgstr "<<"
 
 msgid "Select Plugin"
-msgstr ""
+msgstr "Επιλογή Αρθρωμάτων"
 
 msgid "Plugin &Name:"
-msgstr ""
+msgstr "Όνομα &Αρθρώματος:"
 
-#, c-format
 msgid "Extensions list:"
 msgstr "Κατάλογος Επεκτάσεων:"
 
-#, c-format
 msgid "Description:"
 msgstr "Περιγραφή:"
 
 msgid "Default arguments:"
-msgstr ""
+msgstr "Προεπιλεγμένα ορίσματα:"
 
 msgid "Display all plugins, don't check the extension"
-msgstr ""
+msgstr "Εμφάνιση όλων των αρθρωμάτων, να μην ελέγχεται η επέκταση"
 
 msgid "&Open files in the same window type after unpacking"
-msgstr ""
+msgstr "&Άνοιγμα αρχείων στον ίδιο τύπο παραθύρου μετά την αποσυμπίεση"
 
 msgid "&Plugin Pipeline:"
-msgstr ""
+msgstr "&Αγωγός Αρθρώματος:"
 
 msgid "&Add pipe"
-msgstr ""
+msgstr "&Προσθήκη αγωγού"
 
-#, c-format
 msgid "Stop"
 msgstr "Τερματισμός"
 
-#, c-format
 msgid "Pause"
-msgstr ""
+msgstr "Παύση"
 
-#, c-format
 msgid "Continue"
-msgstr ""
+msgstr "Συνέχεια"
 
-#, c-format
 msgid "Comparing items..."
 msgstr "Σύγκριση αντικειμένων..."
 
-#, c-format
 msgid "Items compared:"
 msgstr "Συγκριθέντα αντικείμενα:"
 
-#, c-format
 msgid "Items total:"
 msgstr "Σύνολο αντικειμένων:"
 
@@ -1787,748 +1465,631 @@ msgstr "Μετάβαση"
 msgid "G&o to:"
 msgstr "&Μετάβαση:"
 
-#, c-format
 msgid "File"
 msgstr "Αρχείο"
 
 msgid "Go to what"
 msgstr "Μετάβαση σε"
 
-#, c-format
 msgid "Li&ne"
 msgstr "&Γραμμή"
 
-#, c-format
 msgid "&Difference"
 msgstr "&Διαφορά"
 
 msgid "&Go to"
 msgstr "Μετά&βαση"
 
-#, c-format
 msgid "Compare"
 msgstr "Σύγκριση"
 
-#, c-format
 msgid "Whitespaces"
 msgstr "Χαρακτήρες Διαστήματος"
 
-#, c-format
 msgid "&Compare"
 msgstr "&Σύγκριση"
 
-#, c-format
 msgid "&Ignore change"
 msgstr "Η μεταβολή να α&γνοείται"
 
-#, c-format
 msgid "I&gnore all"
 msgstr "Να αγνοούνται τα &πάντα"
 
-#, c-format
 msgid "E&nable moved block detection"
 msgstr "Ενεργοποίηση ανι&χνεύσεως μετακινηθέντων τμημάτων"
 
 msgid "Align &similar lines"
-msgstr ""
+msgstr "Αντιστοίχιση &παρομοίων γραμμών"
 
 msgid "Diff &algorithm (Experimental):"
-msgstr ""
+msgstr "Αλγόριθμος &Diff (Πειραματικός):"
 
 msgid "Enable indent &heuristic"
-msgstr ""
+msgstr "Ενεργοποίηση &ευρετικής εσοχής"
 
 msgid "Completely unhighlight the ignored differences"
-msgstr ""
+msgstr "Απομακρύνετε εντελώς τις αγνοημένες διαφορές"
 
-#, c-format
 msgid "Editor"
 msgstr "Επεξεργασία Κειμένου"
 
-#, c-format
 msgid "&Highlight syntax"
 msgstr "&Χρωματισμός Κώδικα"
 
-#, c-format
 msgid "&Automatic rescan"
 msgstr "Α&υτόματη Επανεξέταση"
 
-#, c-format
 msgid "&Preserve original EOL chars"
 msgstr "Δια&τήρηση αρχικών χαρακτήρων τερματισμού"
 
-#, c-format
 msgid "Tabs"
 msgstr "Στηλοθέτες"
 
-#, c-format
 msgid "&Tab size:"
-msgstr "Πλάτος Στηλο&θετών"
+msgstr "Πλάτος Στηλο&θετών:"
 
-#, c-format
 msgid "&Insert Tabs"
 msgstr "Ε&ισαγωγή Στηλοθετών"
 
-#, c-format
 msgid "Insert &Spaces"
 msgstr "Εισαγωγή Κενών &Διαστημάτων"
 
-#, c-format
 msgid "Line Difference Coloring"
 msgstr "Χρωματισμός Διαφορών Γραμμών"
 
-#, c-format
 msgid "View line differences"
 msgstr "Εμφάνιση διαφορών γραμμών"
 
-#, c-format
 msgid "&Character level"
 msgstr "Επίπεδο &Χαρακτήρων"
 
-#, c-format
 msgid "&Word-level:"
-msgstr "Επίπεδο &Λέξεων"
+msgstr "Επίπεδο &Λέξεων:"
 
-#, c-format
 msgid "W&ord break characters:"
-msgstr ""
+msgstr "Χαρακτήρες σπασίματος λ&έξης:"
 
 msgid "&Rendering Mode:"
+msgstr "&Λειτουργία Απόδοσης:"
+
+msgid ""
+"WinMerge allows hiding some common message boxes. Press the Reset button to "
+"make all message boxes visible again."
 msgstr ""
+"Το WinMerge επιτρέπει την απόκρυψη ορισμένων κοινών πλαισίων μηνυμάτων. "
+"Πατήστε το κουμπί Επαναφορά για να ξανακάνετε όλα τα μηνύματα ορατά."
 
-msgid "WinMerge allows hiding some common message boxes. Press the Reset button to make all message boxes visible again."
-msgstr "Το WinMerge επιτρέπει την απόκρυψη ορισμένων κοινών πλαισίων μηνυμάτων. Πατήστε το κουμπί Επαναφορά για να ξανακάνετε όλα τα μηνύματα ορατά."
-
-#, c-format
 msgid "Reset"
 msgstr "Επαναφορά"
 
 msgid "File Filters"
-msgstr ""
+msgstr "Φίλτρα αρχείων"
 
 msgid "Test..."
 msgstr "Δοκιμή..."
 
-#, c-format
 msgid "Install..."
 msgstr "Εγκατάσταση..."
 
-#, c-format
 msgid "New..."
 msgstr "Δημιουργία..."
 
-#, c-format
 msgid "Edit..."
 msgstr "Επεξεργασία..."
 
-#, c-format
 msgid "Delete..."
 msgstr "Διαγραφή..."
 
-#, c-format
 msgid "Save modified files?"
 msgstr "Αποθήκευση τροποποιημένων αρχείων;"
 
-#, c-format
 msgid "Left side file"
 msgstr "Αρχείο αριστερής πλευράς"
 
-#, c-format
 msgid "&Save changes"
 msgstr "Απο&θήκευση αλλαγών"
 
-#, c-format
 msgid "&Discard changes"
 msgstr "Από&ρριψη αλλαγών"
 
-#, c-format
 msgid "Middle side file"
-msgstr ""
+msgstr "Μεσαίο πλευρικό αρχείο"
 
-#, c-format
 msgid "Sa&ve changes"
-msgstr ""
+msgstr "Απ&οθήκευση τροποποιήσεων"
 
-#, c-format
 msgid "Discard c&hanges"
-msgstr ""
+msgstr "Απόρριψη α&λλαγών"
 
-#, c-format
 msgid "Right side file"
 msgstr "Αρχείο δεξιάς πλευράς"
 
-#, c-format
 msgid "S&ave changes"
 msgstr "Απο&θήκευση αλλαγών"
 
-#, c-format
 msgid "Dis&card changes"
 msgstr "Από&ρριψη αλλαγών"
 
-#, c-format
 msgid "Disca&rd All"
-msgstr ""
+msgstr "Απόρρι&ψη Όλων"
 
-#, c-format
 msgid "Codepage"
 msgstr "Κωδικοσελίδα"
 
-#, c-format
 msgid "Default Codepage"
 msgstr "Προκαθορισμένη Κωδικοσελίδα"
 
-#, c-format
 msgid "Select the default codepage assumed when loading non-Unicode files:"
-msgstr "Επιλέξατε την προκαθορισμένη κωδικοσελίδα νοουμένη κατά το άνοιγμα αρχείων χωρίς κωδικοποίηση Unicode"
+msgstr ""
+"Επιλέξατε την προκαθορισμένη κωδικοσελίδα νοουμένη κατά το άνοιγμα αρχείων "
+"χωρίς κωδικοποίηση Unicode:"
 
-#, c-format
 msgid "System codepage"
 msgstr "Κωδικοσελίδα συστήματος"
 
-#, c-format
 msgid "According to WinMerge User Interface"
 msgstr "Σύμφωνα με το Περιβάλλον Εργασίας του WinMerge"
 
-#, c-format
 msgid "Custom codepage:"
-msgstr ""
+msgstr "Προσαρμοσμένη κωδικοσελίδα:"
 
-msgid "Detect codepage info for these type of files: .html, .rc, .xml\nNeed to restart session."
+msgid ""
+"Detect codepage info for these type of files: .html, .rc, .xml\n"
+"Need to restart session."
 msgstr ""
+"Εντοπισμός πληροφοριών κωδικοσελίδων για αυτά τα αρχεία: .html, .rc, .xml\n"
+"Χρειάζεται επανεκκίνηση της συνεδρίας."
 
-msgid "Detect codepage for text files with mlang.dll\nNeed to restart session."
+msgid ""
+"Detect codepage for text files with mlang.dll\n"
+"Need to restart session."
 msgstr ""
+"Εντοπισμός κωδικοσελίδας για αρχεία κειμένου χρησιμοποιώντας το mlang.dll\n"
+"Χρειάζεται επανεκκίνηση της συνεδρίας."
 
-#, c-format
 msgid "Options"
 msgstr "Επιλογές"
 
-#, c-format
 msgid "Import..."
 msgstr "Εισαγωγή..."
 
-#, c-format
 msgid "Export..."
 msgstr "Εξαγωγή..."
 
-#, c-format
 msgid "Dialog"
 msgstr "Διάλογος"
 
-#, c-format
 msgid "Keywords:"
 msgstr "Ειδικές Λέξεις:"
 
-#, c-format
 msgid "Function names:"
 msgstr "Ονόματα Διεργασιών:"
 
-#, c-format
 msgid "Comments:"
 msgstr "Σχόλια:"
 
-#, c-format
 msgid "Numbers:"
 msgstr "Αριθμοί:"
 
-#, c-format
 msgid "Operators:"
 msgstr "Τελεστές:"
 
-#, c-format
 msgid "Strings:"
 msgstr "Αυτούσιο Κείμενο:"
 
-#, c-format
 msgid "Preprocessor:"
 msgstr "Προεπεξεργαστής:"
 
-#, c-format
 msgid "User 1:"
-msgstr "από Χρήστη 1:"
+msgstr "Χρήστη 1:"
 
-#, c-format
 msgid "User 2:"
-msgstr "από Χρήστη 2:"
+msgstr "Χρήστη 2:"
 
-#, c-format
 msgid "Bold"
 msgstr "Έντονα"
 
-#, c-format
 msgid "Search Marker:"
-msgstr ""
+msgstr "Αναζήτηση Σημάνσεων:"
 
-#, c-format
 msgid "User Defined Marker1:"
-msgstr ""
+msgstr "Πεδίο Καθορισμένο από Χρήστη1:"
 
-#, c-format
 msgid "User Defined Marker2:"
-msgstr ""
+msgstr "Πεδίο Καθορισμένο από Χρήστη2:"
 
-#, c-format
 msgid "User Defined Marker3:"
-msgstr ""
+msgstr "Πεδίο Καθορισμένο από Χρήστη3:"
 
-#, c-format
 msgid "Folder Compare Report"
 msgstr "Αναφορά Συγκρίσεως Φακέλων"
 
-#, c-format
 msgid "Report &File:"
-msgstr "Αρχείο Ανα&φοράς"
+msgstr "Αρχείο Ανα&φοράς:"
 
-#, c-format
 msgid "&Style:"
 msgstr "&Στυλ:"
 
-#, c-format
 msgid "&Include File Compare Report"
-msgstr ""
+msgstr "&Συμπερίληψη Αναφοράς Σύγκρισης Αρχείων"
 
-#, c-format
 msgid "Shared or Private Filter"
 msgstr "Κοινό ή Ιδιωτικό Φίλτρο"
 
-#, c-format
 msgid "Which type of filter do you want to create?"
 msgstr "Τι τύπο φίλτρου επιθυμείτε να δημιουργήσετε;"
 
-#, c-format
 msgid "Shared Filter (for all users on this machine)"
 msgstr "Κοινό Φίλτρο (για όλους τους χρήστες αυτού του συστήματος)"
 
-#, c-format
 msgid "Private Filter (only for current user)"
 msgstr "Ιδιωτικό Φίλτρο (μόνο για τον παρόντα χρήστη)"
 
-#, c-format
 msgid "Archive Support"
 msgstr "Υποστήριξη Συμπιεσμένων"
 
-#, c-format
 msgid "&Enable archive file support"
 msgstr "&Ενεργοποίηση υποστηρίξεως συμπιεσμένων αρχείων"
 
-#, c-format
 msgid "&Detect archive type from file signature"
 msgstr "Ανί&χνευση τύπου συμπιεσμένου αρχείου από την υπογραφή του"
 
 msgid "Items saved to or restored from the project file:"
-msgstr ""
+msgstr "Στοιχεία που αποθηκεύονται ή αποκαθίστανται από το αρχείο έργου:"
 
-#, c-format
 msgid "Compare Statistics"
 msgstr "Στατιστικά Συγκρίσεων"
 
-#, c-format
 msgid "Folders:"
 msgstr "Φάκελοι:"
 
-#, c-format
 msgid "Files:"
 msgstr "Αρχεία:"
 
-#, c-format
 msgid "Different"
 msgstr "Διαφορετικά"
 
-#, c-format
 msgid "Binary:"
 msgstr "Δυαδικά:"
 
-#, c-format
 msgid "Unique"
 msgstr "Ορφανά"
 
-#, c-format
 msgid "Left:"
 msgstr "Αριστερά:"
 
-#, c-format
 msgid "Right:"
 msgstr "Δεξιά:"
 
-#, c-format
 msgid "Identical"
 msgstr "Πανομοιότυπα"
 
-#, c-format
 msgid "Total:"
 msgstr "Σύνολο:"
 
-#, c-format
 msgid "Close"
 msgstr "Κλείσιμο"
 
-#, c-format
 msgid "Middle:"
-msgstr ""
+msgstr "Μεσαίο:"
 
-#, c-format
 msgid "Missing Left:"
-msgstr ""
+msgstr "Λείπει Αριστερά:"
 
-#, c-format
 msgid "Missing Middle:"
-msgstr ""
+msgstr "Λείπει το Μεσαίο:"
 
-#, c-format
 msgid "Missing Right:"
-msgstr ""
+msgstr "Λείπει Δεξιά:"
 
-#, c-format
 msgid "Affects"
 msgstr "Επηρεάζει"
 
-#, c-format
 msgid "(Affects)"
 msgstr "(Επηρεάζει)"
 
-#, c-format
 msgid "Select Codepage for"
 msgstr "Επιλογή Κωδικοσελίδας για"
 
-#, c-format
 msgid "&File Loading:"
 msgstr "Ανά&γνωση Αρχείου:"
 
-#, c-format
 msgid "File &Saving:"
 msgstr "Απο&θήκ. Αρχείου:"
 
-#, c-format
 msgid "&Use same codepage for both"
 msgstr "Χρήση ιδίας κωδικοσελίδας για αμφότερα"
 
-#, c-format
 msgid "&Cancel"
 msgstr "Ά&κυρο"
 
-#, c-format
 msgid "Test Filter"
 msgstr "Δοκιμή Φίλτρου"
 
 msgid "Testing filter:"
 msgstr "Δοκιμή Φίλτρου:"
 
-#, c-format
 msgid "&Enter text to test:"
 msgstr "&Εισαγωγή κειμένου για δοκιμή:"
 
-#, c-format
 msgid "&Folder Name"
 msgstr "Όνομα &Φακέλου"
 
-#, c-format
 msgid "Result:"
 msgstr "Αποτέλεσμα:"
 
-#, c-format
 msgid "&Test"
 msgstr "&Δοκιμή"
 
-#, c-format
 msgid "&Close"
 msgstr "Κ&λείσιμο"
 
 msgid "Table"
-msgstr ""
+msgstr "Πίνακας"
 
 msgid "File type"
-msgstr ""
+msgstr "Τύπος αρχείου"
 
 msgid "&CSV"
-msgstr ""
+msgstr "&CSV"
 
 msgid "&TSV"
-msgstr ""
+msgstr "&TSV"
 
 msgid "Custom &Delimiter-Separated Values"
-msgstr ""
+msgstr "Προσαρμοσμένες &Τιμές Διαχωρισμένες Με Οριοθέτη"
 
 msgid "D&elimiter character:"
-msgstr ""
+msgstr "Χαρακτήρας ο&ριοθέτησης:"
 
 msgid "&Allow newlines in quotes"
-msgstr ""
+msgstr "&Επιτρέπει νέες γραμμές σε εισαγωγικά"
 
 msgid "&Quote character:"
-msgstr ""
+msgstr "&Παράθεση χαρακτήρα:"
 
-#, c-format
 msgid "&Use customized text colors"
 msgstr "Χρήση προ&τιμωμένων χρωματισμών κειμένου"
 
-#, c-format
 msgid "Whitespace:"
 msgstr "Χαρακτήρες Διαστήματος:"
 
-#, c-format
 msgid "Regular text:"
 msgstr "Απλό κείμενο:"
 
-#, c-format
 msgid "Selection:"
 msgstr "Επιλογή:"
 
-#, c-format
 msgid "Backup Files"
 msgstr "Εφεδρικά Αρχεία"
 
-#, c-format
 msgid "Create backup files in:"
 msgstr "Δημιουργία εφεδρικών αρχείων ενώ γίνεται:"
 
-#, c-format
 msgid "&Folder compare"
 msgstr "Σύγκριση &Φακέλων"
 
-#, c-format
 msgid "Fil&e compare"
 msgstr "Σύγκριση &Αρχείων"
 
-#, c-format
 msgid "Create backup files into:"
 msgstr "Δημιουργία εφεδρικών αρχείων εντός:"
 
-#, c-format
 msgid "&Original file's folder"
 msgstr "Αρ&χικού φακέλου αρχείου"
 
-#, c-format
 msgid "&Global backup folder:"
 msgstr "&Καθολικού φακέλου εφεδρειών:"
 
-#, c-format
 msgid "Backup filename:"
 msgstr "Όνομα εφεδρικού αρχείου:"
 
 msgid "&Append .bak extension"
 msgstr "Προσ&θήκη επεκτάσεως .bak"
 
-#, c-format
 msgid "A&ppend timestamp"
 msgstr "Προσθήκη &ημερομηνίας κ΄ ώρας"
 
-#, c-format
 msgid "Confirm Copy"
 msgstr "Επιβεβαίωση Αντιγραφής"
 
-#, c-format
 msgid "Are you sure you want to copy XXX items?"
 msgstr "Είσθε βέβαιοι ότι επιθυμείτε να αντιγράψετε XXX αντικείμενα;"
 
-#, c-format
 msgid "From left"
 msgstr "Εξ αριστερών"
 
-#, c-format
 msgid "To right"
 msgstr "Προς τα δεξιά"
 
-#, c-format
 msgid "Don't ask this &question again."
 msgstr "Να μην ξαναγίνει αυτή η &ερώτηση."
 
-#, c-format
 msgid "Yes"
 msgstr "Ναι"
 
-#, c-format
 msgid "No"
-msgstr "Όχι"
+msgstr "No"
 
-#, c-format
 msgid "Plugins"
 msgstr "Αρθρώματα"
 
-#, c-format
 msgid "&Enable plugins"
 msgstr "Ενεργοποίηση Αρθρωμάτων"
 
 msgid "File filters:"
-msgstr ""
+msgstr "Φίλτρα αρχείων:"
 
 msgid "&Plugin arguments:"
-msgstr ""
+msgstr "&Ορίσματα Αρθρωμάτων:"
 
 msgid "Enable &automatic unpacking/prediffing for the plugin"
 msgstr ""
+"&Ενεργοποίηση &αυτόματης αποσυσκευασίας/προκαθορισμού για την αρθρώματα"
 
-#, c-format
 msgid "Shell Integration"
-msgstr ""
+msgstr "Ενσωμάτωση Κελύφους"
 
-#, c-format
 msgid "Explorer"
-msgstr ""
+msgstr "Εξερεύνηση"
 
-#, c-format
 msgid "E&nable advanced menu"
 msgstr "Ενεργοποίηση εξειδικευμένων επιλογών"
 
-#, c-format
 msgid "&Add to context menu"
-msgstr ""
+msgstr "&Προσθήκη στο μενού περιβάλλοντος"
 
-#, c-format
 msgid "&Register shell extension"
-msgstr ""
+msgstr "&Καταχώρηση επέκτασης κελύφους"
 
-#, c-format
 msgid "&Unregister shell extension"
-msgstr ""
+msgstr "&Αφαίρεση καταχώρησης επέκτασης κελύφους"
 
 msgid "Register shell extension for current user &only"
-msgstr ""
+msgstr "Καταχώρηση επέκτασης κελύφους μόνο για τον τρέχοντα &χρήστη"
 
 msgid "Unregister shell extension for current user on&ly"
-msgstr ""
+msgstr "Αφαίρεση καταχώρησης επέκτασης κελύφους μόνο για τον τρέχοντα χρήσ&τη"
 
 msgid "Register shell extension for &Windows 11 or later"
-msgstr ""
+msgstr "Καταχώρηση επέκτασης κελύφους για Windows 11 ή νεότερη έκδοση"
 
 msgid "Unregister shell extension for W&indows 11 or later"
-msgstr ""
+msgstr "Αφαίρεση κατ. επέκτασης κελύφους για Windows 11 ή νεότερη έκδοση"
 
 msgctxt "Options dialog|Categories"
 msgid "Folder"
 msgstr "Φάκελος"
 
-#, c-format
 msgid "S&top after first difference"
 msgstr "&Τερματισμός μετά την πρώτη διαφορά"
 
-#, c-format
 msgid "Ign&ore time differences less than 3 seconds"
 msgstr "Διαφορές ώρας μικρότερες των &3 δευτερολέπτων να αγνοούνται"
 
-#, c-format
 msgid "Include &unique subfolders contents"
-msgstr ""
+msgstr "&Συμπερίληψη μοναδικών περιεχομένων υποφακέλων"
 
-#, c-format
 msgid "&Automatically expand all subfolders"
-msgstr ""
+msgstr "&Αυτόματη ανάπτυξη όλων των υποφακέλων"
 
-#, c-format
 msgid "Ignore &Reparse Points"
-msgstr ""
+msgstr "Αγνόηση Σημείων &Επανεξέτασης"
 
 msgid "Threshold for switching to &quick compare (MB):"
-msgstr ""
+msgstr "Όριο για μετάβαση σε &γρήγορη σύγκριση (MB):"
 
 msgid "Threshold for switching to &binary compare (MB):"
-msgstr ""
+msgstr "Όριο για μετάβαση σε &δυαδική σύγκριση (MB):"
 
-msgid "\n&Number of compare threads (a negative value implies addition of the number of available CPU cores):"
+msgid ""
+"\n"
+"&Number of compare threads (a negative value implies addition of the number "
+"of available CPU cores):"
 msgstr ""
+"\n"
+"&Αριθμός νημάτων σύγκρισης (μια αρνητική τιμή συνεπάγεται την προσθήκη του "
+"αριθμού των διαθέσιμων πυρήνων της CPU):"
 
 msgid "&CSV File Patterns:"
-msgstr ""
+msgstr "&Μοτίβα αρχείων CSV:"
 
 msgid "&TSV File Patterns:"
-msgstr ""
+msgstr "&Μοτίβα Αρχείων TSV:"
 
 msgid "Custom Delimiter-Separated Values"
-msgstr ""
+msgstr "Προσαρμοσμένες &Τιμές Διαχωρισμένες Με Οριοθέτη"
 
 msgid "File Patterns:"
-msgstr ""
+msgstr "Μοτίβα Αρχείων:"
 
 msgctxt "Options dialog|Categories"
 msgid "Binary"
 msgstr "Δυαδικό"
 
-#, c-format
 msgid "Binary File &Patterns:"
-msgstr ""
+msgstr "Μοτίβα &Δυαδικών Αρχείων:"
 
-#, c-format
 msgid "Frhed settings"
-msgstr ""
+msgstr "Ρυθμίσεις Frhed"
 
-#, c-format
 msgid "View &Settings..."
-msgstr ""
+msgstr "Προβολή &Ρυθμίσεις..."
 
-#, c-format
 msgid "&Binary Mode..."
-msgstr ""
+msgstr "&Δυαδική Λειτουργία..."
 
-#, c-format
 msgid "&Character Set..."
-msgstr ""
+msgstr "&Σύνολο Χαρακτήρων..."
 
 msgid "Image"
-msgstr ""
+msgstr "Εικόνα"
 
-#, c-format
 msgid "Image File &Patterns:"
-msgstr ""
+msgstr "Μοτίβα Αρχείων &Εικόνας:"
 
 msgid "&Enable image compare in folder compare"
-msgstr ""
+msgstr "&Ενεργοποίηση της σύγκρισης εικόνας στη σύγκριση φακέλων"
 
 msgid "OCR result:"
-msgstr ""
+msgstr "Αποτέλεσμα OCR:"
 
 msgid "Webpage"
-msgstr ""
+msgstr "&Ιστοσελίδα"
 
 msgid "URL pattern to &include (Regular expression):"
-msgstr ""
+msgstr "Μοτίβο διεύθυνσης URL για &συμπερίληψη (Κανονική έκφραση):"
 
 msgid "URL pattern to &exclude (Regular expression):"
-msgstr ""
+msgstr "Μοτίβο διεύθυνσης URL για &εξαίρεση (Κανονική έκφραση):"
 
 msgid "&User data folder location:"
-msgstr ""
+msgstr "&Θέση φακέλου δεδομένων χρήστη:"
 
 msgid "&Separate user data folders for each pane"
-msgstr ""
+msgstr "&Διαχωρισμός φακέλων δεδομένων χρήστη για κάθε παράθυρο"
 
-#, c-format
 msgid "&Hex View"
-msgstr ""
+msgstr "&Προβολή Hex"
 
-#, c-format
 msgid "EXT"
-msgstr ""
+msgstr "EXT"
 
-#, c-format
 msgid "CAP"
-msgstr ""
+msgstr "CAP"
 
-#, c-format
 msgid "NUM"
-msgstr ""
+msgstr "NUM"
 
-#, c-format
 msgid "SCRL"
-msgstr ""
+msgstr "SCRL"
 
-#, c-format
 msgid "OVR"
-msgstr ""
+msgstr "OVR"
 
-#, c-format
 msgid "REC"
-msgstr ""
+msgstr "REC"
 
-#, c-format
-msgid "\nNew Documents (Ctrl+N)"
+msgid ""
+"\n"
+"New Documents (Ctrl+N)"
 msgstr ""
+"\n"
+"Νέα Εγγραφα (Ctrl+N)"
 
-#, c-format
-msgid "\nOpen (Ctrl+O)"
+msgid ""
+"\n"
+"Open (Ctrl+O)"
 msgstr ""
+"\n"
+"Άνοιγμα (Ctrl+O)"
 
-#, c-format
-msgid "\nSave (Ctrl+S)"
+msgid ""
+"\n"
+"Save (Ctrl+S)"
 msgstr ""
+"\n"
+"Αποθήκευση (Ctrl+S)"
 
 msgid "Unknown error attempting to open project file."
 msgstr "Παρουσιάσθηκε κάποιο σφάλμα κατά το άνοιγμα του αρχείου έργου."
@@ -2536,23 +2097,26 @@ msgstr "Παρουσιάσθηκε κάποιο σφάλμα κατά το άν�
 msgid "Unknown error attempting to save project file."
 msgstr "Παρουσιάσθηκε κάποιο σφάλμα κατά την αποθήκευση του αρχείου έργου."
 
-#, c-format
 msgid "Project file successfully loaded."
 msgstr "Αρχείο Έργου ανοίχθηκε επιτυχώς."
 
-#, c-format
 msgid "Project file successfully saved."
 msgstr "Αρχείο Έργου αποθηκεύθηκε επιτυχώς."
 
-#, c-format
-msgid "\nUndo (Ctrl+Z)"
+msgid ""
+"\n"
+"Undo (Ctrl+Z)"
 msgstr ""
+"\n"
+"Αναίρεση (Ctrl+Z)"
 
-#, c-format
-msgid "\nRedo (Ctrl+Y)"
+msgid ""
+"\n"
+"Redo (Ctrl+Y)"
 msgstr ""
+"\n"
+"Επανάληψη (Ctrl+Y)"
 
-#, c-format
 msgid ""
 "\n"
 "FileCompare\n"
@@ -2570,7 +2134,6 @@ msgstr ""
 "WinMerge.ΣύγκρισηΑρχείων\n"
 "Σύγκριση Αρχείων WinMerge"
 
-#, c-format
 msgid ""
 "\n"
 "FolderCompare\n"
@@ -2588,120 +2151,109 @@ msgstr ""
 "WinMerge.ΣύγκρισηΦακέλων\n"
 "Σύγκριση Φακέλων WinMerge"
 
-#, c-format
-msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you are welcome to redistribute it under certain circumstances; see the GNU General Public License in the Help menu for details."
-msgstr "Το WinMerge προσφέρεται χωρίς ΚΑΜΜΙΑ ΑΠΟΛΥΤΩΣ ΕΓΓΥΗΣΗ. Είναι ελεύθερο λογισμικό και είσθε ευπρόσδεκτος να το αναδιανείμετε υπό ορισμένες περιστάσεις· δείτε τη Γενική Δημοσία Άδεια GNU στις επιλογές της Βοηθείας για λεπτομέρειες."
+msgid ""
+"WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you "
+"are welcome to redistribute it under certain circumstances; see the GNU "
+"General Public License in the Help menu for details."
+msgstr ""
+"Το WinMerge προσφέρεται χωρίς ΚΑΜΜΙΑ ΑΠΟΛΥΤΩΣ ΕΓΓΥΗΣΗ. Είναι ελεύθερο "
+"λογισμικό και είσθε ευπρόσδεκτος να το αναδιανείμετε υπό ορισμένες "
+"περιστάσεις· δείτε τη Γενική Δημοσία Άδεια GNU στις επιλογές της Βοηθείας "
+"για λεπτομέρειες."
 
-#, c-format
 msgid "&Abort"
 msgstr "&Ματαίωση"
 
-#, c-format
 msgid "&Retry"
 msgstr "&Επανάληψη"
 
-#, c-format
 msgid "&Ignore"
 msgstr "Να &αγνοηθεί"
 
-#, c-format
 msgid "Ignore &all"
 msgstr "Να αγνοηθούν &όλα"
 
-#, c-format
 msgid "&Yes"
 msgstr "&Ναι"
 
-#, c-format
 msgid "Yes to &all"
 msgstr "Ναι σε &όλα"
 
-#, c-format
 msgid "&No"
-msgstr "&Όχι"
+msgstr "&No"
 
-#, c-format
 msgid "No to a&ll"
 msgstr "Όχι σε ό&λα"
 
-#, c-format
 msgid "&Continue"
 msgstr "&Συνέχεια"
 
-#, c-format
 msgid "&Skip"
 msgstr "&Παράλειψη"
 
-#, c-format
 msgid "Skip &all"
 msgstr "Παράλειψη Ό&λων"
 
-#, c-format
 msgid "Don't display this &message again."
 msgstr "Να μην εμφανισθεί ξανά αυτό το &Μήνυμα."
 
-msgid "To make this message box visible again, press the Reset button on the Message Boxes page of the Options dialog."
+msgid ""
+"To make this message box visible again, press the Reset button on the "
+"Message Boxes page of the Options dialog."
 msgstr ""
+"Για να γίνει πάλι ορατό αυτό το πλαίσιο μηνυμάτων, πατήστε το κουμπί "
+"Επαναφορά στη σελίδα Πλαίσια μηνυμάτων του διαλόγου Επιλογών."
 
-#, c-format
 msgid "Syntax"
-msgstr ""
+msgstr "Σύνταξη"
 
 msgid "Color Schemes"
-msgstr ""
+msgstr "Χρωματικός Συνδυασμός"
 
 msgid "Folder Compare"
-msgstr ""
+msgstr "Σύγκριση Φακέλου"
 
 msgid "Project"
-msgstr ""
+msgstr "Εργασίες"
 
-#, c-format
 msgid "Differences"
 msgstr "Διαφορές"
 
 msgid "Message Boxes"
-msgstr ""
+msgstr "Πλαίσια  Μηνυμάτων"
 
-#, c-format
 msgid "To:"
-msgstr "Προς:"
+msgstr "To:"
 
-#, c-format
 msgid "From left:"
 msgstr "Εξ αριστερών:"
 
-#, c-format
 msgid "To left:"
 msgstr "Προς τα αριστερά:"
 
-#, c-format
 msgid "From right:"
 msgstr "Εκ δεξιών:"
 
-#, c-format
 msgid "To right:"
 msgstr "Προς τα δεξιά:"
 
 msgid "From middle:"
-msgstr ""
+msgstr "Από το μεσαίο:"
 
 msgid "To middle:"
-msgstr ""
+msgstr "Στο μεσαίο:"
 
 #, c-format
 msgid "Version %1"
 msgstr "Έκδοση %1"
 
-#, c-format
 msgid "X64"
-msgstr ""
+msgstr "X64"
 
 #, c-format
 msgid "Options (%1)"
 msgstr "Επιλογές (%1)"
 
-#, c-format
 msgid "All message boxes are now displayed again."
 msgstr "Όλα τα πλαίσια μηνυμάτων είναι πάλι ορατά."
 
@@ -2711,104 +2263,101 @@ msgid ""
 "\n"
 "Please use values 1 - %1."
 msgstr ""
-"Η Τιμή στο πεδίο πλάτους Στηλοθέτη δεν είναι εντός των αποδεκτών από το WinMerge ορίων.\n"
+"Η Τιμή στο πεδίο πλάτους Στηλοθέτη δεν είναι εντός των αποδεκτών από το "
+"WinMerge ορίων.\n"
 "\n"
 "Παρακαλώ χρησιμοποιείστε τιμές 1 - %1."
 
-#, c-format
 msgid "Open"
 msgstr "Άνοιγμα"
 
-#, c-format
 msgid "Programs|*.exe;*.bat;*.cmd|All Files (*.*)|*.*||"
 msgstr "Προγράμματα|*.exe;*.bat;*.cmd|Όλα τα Αρχεία (*.*)|*.*||"
 
-#, c-format
 msgid "All Files (*.*)|*.*||"
 msgstr "Όλα τα Αρχεία (*.*)|*.*||"
 
-#, c-format
 msgid "WinMerge Project Files (*.WinMerge)|*.WinMerge||"
 msgstr "Αρχεία Έργου του WinMerge (*.WinMerge)|*.WinMerge||"
 
-#, c-format
 msgid "Options files (*.ini)|*.ini|All Files (*.*)|*.*||"
 msgstr "Αρχεία ρυθμίσεων (*.ini)|*.ini|Όλα τα Αρχεία (*.*)|*.*||"
 
-#, c-format
-msgid "Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|*.*||"
-msgstr "Αρχεία απλού Κειμένου (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|Όλα τα Αρχεία (*.*)|*.*||"
+msgid ""
+"Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|"
+"*.*||"
+msgstr ""
+"Αρχεία απλού Κειμένου (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|Όλα "
+"τα Αρχεία (*.*)|*.*||"
 
-#, c-format
 msgid "HTML Files (*.htm,*.html)|*.htm;*.html|All Files (*.*)|*.*||"
 msgstr "Αρχεία HTML (*.htm,*.html)|*.htm;*.html|Όλα τα Αρχεία (*.*)|*.*||"
 
-#, c-format
 msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
 msgstr "Αρχεία XML (*.xml)|*.xml|All Files (*.*)|*.*||"
 
 msgid "File Type"
-msgstr ""
+msgstr "Τύπος Αρχείου"
 
-#, c-format
 msgid "Extension"
 msgstr "Επέκταση"
 
 msgid "Message"
-msgstr ""
+msgstr "Μήνυμα"
 
 msgid "Answer"
-msgstr ""
+msgstr "Απάντηση"
 
 msgid "Item"
-msgstr ""
+msgstr "Αντικείμενο"
 
 msgid "Load"
-msgstr ""
+msgstr "Φόρτωση"
 
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 msgid "Include Subfolders"
-msgstr ""
+msgstr "Συμπερίληψη Υποφακέλων"
 
 msgid "Compare Options"
-msgstr ""
+msgstr "Επιλογές Σύγκρισης"
 
 msgid "Hidden Items"
-msgstr ""
+msgstr "Απόκρυ&ψη Αντικειμένων"
 
-#, c-format
 msgid "Name"
 msgstr "Όνομα"
 
-#, c-format
 msgid "Location"
 msgstr "Τοποθεσία"
 
-#, c-format
 msgid "Filters"
 msgstr "Φίλτρα"
 
-#, c-format
 msgid "[F] "
-msgstr ""
+msgstr "[F] "
 
-#, c-format
 msgid "Description"
 msgstr "Περιγραφή"
 
-#, c-format
 msgid "Select filename for new filter"
 msgstr "Επιλέξατε όνομα αρχείου για το νέο φίλτρο"
 
-#, c-format
 msgid "File Filters (*.flt)|*.flt|All Files (*.*)|*.*||"
 msgstr "Φίλτρα Αρχείων (*.flt)|*.flt|Όλα τα αρχεία (*.*)|*.*||"
 
 #, c-format
-msgid "Cannot find file filter template file!\n\nPlease copy file %1 to WinMerge/Filters folder:\n%2."
-msgstr "Το πρότυπο αρχείο φίλτρων αρχείων δεν είναι δυνατόν να βρεθεί!\n\nΠαρακαλώ αντιγράψατε το αρχείο %1 στο φάκελο WinMerge/Filters:\n%2."
+msgid ""
+"Cannot find file filter template file!\n"
+"\n"
+"Please copy file %1 to WinMerge/Filters folder:\n"
+"%2."
+msgstr ""
+"Το πρότυπο αρχείο φίλτρων αρχείων δεν είναι δυνατόν να βρεθεί!\n"
+"\n"
+"Παρακαλώ αντιγράψατε το αρχείο %1 στο φάκελο WinMerge/Filters:\n"
+"%2."
 
 #, c-format
 msgid ""
@@ -2817,12 +2366,13 @@ msgid ""
 "\n"
 "Please make sure the folder exists and is writable."
 msgstr ""
-"Το πρότυπο αρχείο φίλτρου δεν είναι δυνατόν να αντιγραφεί στο φάκελο φίλτρων:\n"
+"Το πρότυπο αρχείο φίλτρου δεν είναι δυνατόν να αντιγραφεί στο φάκελο "
+"φίλτρων:\n"
 "%1\n"
 "\n"
-"Παρακαλώ βεβαιωθείτε ότι ο φάκελος υπάρχει και δεν έχει την ιδιότητα \"Μόνο για Ανάγνωση\"."
+"Παρακαλώ βεβαιωθείτε ότι ο φάκελος υπάρχει και δεν έχει την ιδιότητα \"Μόνο "
+"για Ανάγνωση\"."
 
-#, c-format
 msgid ""
 "User's filter file folder is not defined!\n"
 "\n"
@@ -2844,11 +2394,9 @@ msgstr ""
 "\n"
 "Μήπως το αρχείο έχει την ιδιότητα \"Μόνο για Ανάγνωση\";"
 
-#, c-format
 msgid "Locate filter file to install"
 msgstr "Εντοπισμός αρχείου φίλτρου προς εγκατάσταση"
 
-#, c-format
 msgid ""
 "Installing filter file failed.\n"
 "\n"
@@ -2858,54 +2406,54 @@ msgstr ""
 "\n"
 "Η αντιγραφή του νέου αρχείου φίλτρου στο φάκελο φίλτρων ήταν αδύνατη."
 
-#, c-format
 msgid "Filter file already exists. Overwrite existing filter?"
 msgstr "Το αρχείο φίλτρου υπάρχει ήδη. Αντικατάσταση του υπάρχοντος φίλτρου;"
 
-#, c-format
 msgid "Regular expression"
 msgstr "Τυποποιημένη Έκφραση"
 
-msgid "Filters were updated. Do you want to refresh all open folder compares?\n\nIf you do not want to refresh all compares now you can select 'No' and refresh compares later."
-msgstr "Τα φίλτρα ενημερώθηκαν. Επιθυμείτε να ανανεωθούν όλες οι ανοικτές συγκρίσεις φακέλων;\n\nΕάν δεν επιθυμείτε να ανανεωθούν όλες οι συγκρίσεις τώρα, μπορείτε να επιλέξετε 'Όχι' και να ανανεώσετε τις συγκρίσεις αργότερα."
+msgid ""
+"Filters were updated. Do you want to refresh all open folder compares?\n"
+"\n"
+"If you do not want to refresh all compares now you can select 'No' and "
+"refresh compares later."
+msgstr ""
+"Τα φίλτρα ενημερώθηκαν. Επιθυμείτε να ανανεωθούν όλες οι ανοικτές συγκρίσεις "
+"φακέλων;\n"
+"\n"
+"Εάν δεν επιθυμείτε να ανανεωθούν όλες οι συγκρίσεις τώρα, μπορείτε να "
+"επιλέξετε 'Όχι' και να ανανεώσετε τις συγκρίσεις αργότερα."
 
-#, c-format
 msgid "Folder Comparison Results"
 msgstr "Αποτελέσματα Συγκρίσεως Φακέλων"
 
-#, c-format
 msgid "File Comparison"
 msgstr "Σύγκριση Αρχείων"
 
-#, c-format
 msgid "Untitled left"
 msgstr "Χωρίς τίτλο αριστερά"
 
-#, c-format
 msgid "Untitled middle"
-msgstr ""
+msgstr "Χωρίς τίτλο μεσαίο"
 
-#, c-format
 msgid "Untitled right"
 msgstr "Χωρίς τίτλο δεξιά"
 
 msgid "Base File"
-msgstr ""
+msgstr "Αρχείο βάσης"
 
-#, c-format
 msgid "Theirs File"
 msgstr "Αρχείο Αυτών"
 
-#, c-format
 msgid "Mine File"
 msgstr "Αρχείο Δικό μου"
 
 msgid "Original File"
-msgstr ""
+msgstr "Αρχικό Αρχείο"
 
 #, c-format
 msgid "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
-msgstr ""
+msgstr "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
 
 #, c-format
 msgid "Line: %s"
@@ -2913,13 +2461,12 @@ msgstr "Γραμμή: %s"
 
 #, c-format
 msgid "Ln: %s  Col: %d/%d  Ch: %d/%d"
-msgstr ""
+msgstr "Ln: %s  Col: %d/%d  Ch: %d/%d"
 
 #, c-format
 msgid "  Sel: %d | %d"
-msgstr ""
+msgstr "  Sel: %d | %d"
 
-#, c-format
 msgid "Merge"
 msgstr "Συγχώνευση"
 
@@ -2931,12 +2478,10 @@ msgstr "Διαφορά %1 από %2"
 msgid "%1 Differences Found"
 msgstr "%1 Διαφορές βρέθηκαν"
 
-#, c-format
 msgid "1 Difference Found"
 msgstr "1 Διαφορά βρέθηκε"
 
 #. Abbreviation from "Read Only"
-#, c-format
 msgid "RO"
 msgstr "ΜγΑ"
 
@@ -2951,54 +2496,42 @@ msgstr "Αντικείμενα: %1"
 msgid "Select two existing folders or files to compare."
 msgstr "Επιλέξατε δύο υπάρχοντες φακέλους ή αρχεία προς σύγκριση."
 
-#, c-format
 msgid "Folder Selection"
 msgstr "Επιλογή Φακέλων"
 
-#, c-format
 msgid "Select two (or three) folders or two (or three) files to compare."
-msgstr ""
+msgstr "Επιλέξτε δύο (ή τρεις) φακέλους ή δύο (ή τρία) αρχεία για σύγκριση."
 
-#, c-format
 msgid "Left (1st) path is invalid!"
-msgstr ""
+msgstr "Το αριστερό (1ο) μονοπάτι είναι άκυρο!"
 
-#, c-format
 msgid "Middle (2nd) path is invalid!"
-msgstr ""
+msgstr "Το μεσαίο (2ο) μονοπάτι είναι άκυρο!"
 
-#, c-format
 msgid "Right (2nd) path is invalid!"
-msgstr ""
+msgstr "Το δεξιό (2ο) μονοπάτι είναι άκυρο!"
 
-#, c-format
 msgid "Right (3rd) path is invalid!"
-msgstr ""
+msgstr "Το δεξιό (3ο) μονοπάτι είναι άκυρο!"
 
-#, c-format
 msgid "Both paths are invalid!"
 msgstr "Σφάλμα σε αμφότερες τις διαδρομές!"
 
-#, c-format
 msgid "Left (1st) and Middle (2nd) paths are invalid!"
-msgstr ""
+msgstr "Το αριστερό (1ο) και το μεσαίο (2ο) μονοπάτι είναι άκυρα!"
 
-#, c-format
 msgid "Left (1st) and Right (3rd) paths are invalid!"
-msgstr ""
+msgstr "Το αριστερό (1ο) και το δεξί (3ο) μονοπάτι είναι άκυρα!"
 
-#, c-format
 msgid "Middle (2nd) and Right (3rd) paths are invalid!"
-msgstr ""
+msgstr "Το μεσαίο (2ο) και το δεξί (3ο) μονοπάτι είναι άκυρα!"
 
-#, c-format
 msgid "All paths are invalid!"
-msgstr ""
+msgstr "Όλα τα μονοπάτια είναι άκυρα!"
 
 msgid "Only enabled for file comparisons"
-msgstr ""
+msgstr "Ενεργοποιημένο μόνο για συγκρίσεις αρχείων"
 
-#, c-format
 msgid "Cannot compare file and folder!"
 msgstr "Η σύγκριση αρχείου και φακέλου δεν είναι δυνατή!"
 
@@ -3022,7 +2555,6 @@ msgstr ""
 "\n"
 "%2"
 
-#, c-format
 msgid "Failed to parse conflict file."
 msgstr "Αποτυχία αναλύσεως αρχείου διενέξεων."
 
@@ -3036,10 +2568,20 @@ msgstr ""
 "%1\n"
 "δεν είναι αρχείο διενέξεων."
 
-msgid "You are about to compare very large files.\nShowing the contents of the files requires a very large amount of memory.\nDo you want to show only the comparison results, not the contents of the files?\n\n"
+msgid ""
+"You are about to compare very large files.\n"
+"Showing the contents of the files requires a very large amount of memory.\n"
+"Do you want to show only the comparison results, not the contents of the "
+"files?\n"
+"\n"
 msgstr ""
+"Πρόκειται να συγκρίνετε πολύ μεγάλα αρχεία.\n"
+"Η εμφάνιση των περιεχομένων των αρχείων απαιτεί πολύ μεγάλη ποσότητα "
+"μνήμης.\n"
+"Θέλετε να εμφανίσετε μόνο τα αποτελέσματα της σύγκρισης και όχι τα "
+"περιεχόμενα των αρχείων;\n"
+"\n"
 
-#, c-format
 msgid "Save As"
 msgstr "Αποθήκευση Ως"
 
@@ -3048,10 +2590,13 @@ msgid "Save changes to %1?"
 msgstr "Αποθήκευση μεταβολών στο %1;"
 
 #, c-format
-msgid "%1 is marked read-only. Would you like to override the read-only file? (No to save as new filename.)"
-msgstr "Το %1 έχει την ιδιότητα \"Μόνο για Ανάγνωση\". Θα θέλατε να αντικαταστήσετε το αρχείο; (Όχι για αποθήκευση ως διαφορετικό αρχείο.)"
+msgid ""
+"%1 is marked read-only. Would you like to override the read-only file? (No "
+"to save as new filename.)"
+msgstr ""
+"Το %1 έχει την ιδιότητα \"Μόνο για Ανάγνωση\". Θα θέλατε να αντικαταστήσετε "
+"το αρχείο; (Όχι για αποθήκευση ως διαφορετικό αρχείο.)"
 
-#, c-format
 msgid "Error backing up file"
 msgstr "Αποτυχία δημιουργίας εφεδρικού αρχείου"
 
@@ -3068,7 +2613,13 @@ msgstr ""
 "Συνέχεια ως έχει;"
 
 #, c-format
-msgid "Saving file failed.\n%1\n%2\nDo you want to:\n\t- use a different filename (Press OK)\n\t- abort the current operation (Press Cancel)?"
+msgid ""
+"Saving file failed.\n"
+"%1\n"
+"%2\n"
+"Do you want to:\n"
+"\t- use a different filename (Press OK)\n"
+"\t- abort the current operation (Press Cancel)?"
 msgstr ""
 "Αποτυχία αποθηκεύσεως αρχείου.\n"
 "%1\n"
@@ -3085,15 +2636,27 @@ msgid ""
 "\n"
 "Do you want to save the unpacked version to another file?"
 msgstr ""
-"Το άρθρωμα '%2' δεν είναι δυνατόν να επανασυμπιέσει τις μεταβολές σας στο αριστερό αρχείο, στο '%1'.\n"
+"Το άρθρωμα '%2' δεν είναι δυνατόν να επανασυμπιέσει τις μεταβολές σας στο "
+"αριστερό αρχείο, στο '%1'.\n"
 "\n"
 "Το αρχικό αρχείο δε θα μεταβληθεί.\n"
 "\n"
 "Επιθυμείτε να αποθηκεύσετε το αποσυμπιεσμένο αρχείο ως διαφορετικό αρχείο;"
 
 #, c-format
-msgid "Plugin '%2' cannot pack your changes to the middle file back into '%1'.\n\nThe original file will not be changed.\n\nDo you want to save the unpacked version to another file?"
+msgid ""
+"Plugin '%2' cannot pack your changes to the middle file back into '%1'.\n"
+"\n"
+"The original file will not be changed.\n"
+"\n"
+"Do you want to save the unpacked version to another file?"
 msgstr ""
+"Το άρθρωμα '%2' δεν είναι δυνατόν να επανασυμπιέσει τις μεταβολές σας στο "
+"αριστερό αρχείο, στο '%1'.\n"
+"\n"
+"Το αρχικό αρχείο δε θα μεταβληθεί.\n"
+"\n"
+"Επιθυμείτε να αποθηκεύσετε το αποσυμπιεσμένο αρχείο ως διαφορετικό αρχείο;"
 
 #, c-format
 msgid ""
@@ -3103,7 +2666,8 @@ msgid ""
 "\n"
 "Do you want to save the unpacked version to another file?"
 msgstr ""
-"Το άρθρωμα '%2' δεν είναι δυνατόν να επανασυμπιέσει τις μεταβολές σας στο δεξιό αρχείο, στο '%1'.\n"
+"Το άρθρωμα '%2' δεν είναι δυνατόν να επανασυμπιέσει τις μεταβολές σας στο "
+"δεξιό αρχείο, στο '%1'.\n"
 "\n"
 "Το αρχικό αρχείο δε θα μεταβληθεί.\n"
 "\n"
@@ -3129,35 +2693,50 @@ msgid ""
 "is marked read-only. Would you like to override the read-only item?"
 msgstr ""
 "Το %1\n"
-"έχει την ιδιότητα \"Μόνο για Ανάγνωση\". Επιθυμείτε να αντικαταστήσετε το αρχείο;"
+"έχει την ιδιότητα \"Μόνο για Ανάγνωση\". Επιθυμείτε να αντικαταστήσετε το "
+"αρχείο;"
 
 #, c-format
-msgid "Another application has updated file\n%1\nsince WinMerge scanned it last time.\n\nDo you want to reload the file?"
+msgid ""
+"Another application has updated file\n"
+"%1\n"
+"since WinMerge scanned it last time.\n"
+"\n"
+"Do you want to reload the file?"
 msgstr ""
+"Μια άλλη εφαρμογή έχει ενημερώσει το αρχείο\n"
+"%1\n"
+"από την τελευταία φορά που το WinMerge το σάρωσε.\n"
+"\n"
+"Θέλετε να επαναφορτώσετε το αρχείο;"
 
-#, c-format
 msgid "Save Left File As"
 msgstr "Αποθήκευση Αριστερού Αρχείου Ως"
 
-#, c-format
 msgid "Save Middle File As"
-msgstr ""
+msgstr "Αποθήκευση Μεσαίου Αρχείου Ως"
 
-#, c-format
 msgid "Save Right File As"
 msgstr "Αποθήκευση Δεξιού Αρχείου Ως"
 
 #, c-format
-msgid "The file\n%1\nhas disappeared. Please save a copy of the file to continue."
+msgid ""
+"The file\n"
+"%1\n"
+"has disappeared. Please save a copy of the file to continue."
 msgstr ""
+"Το αρχείο\n"
+"%1\n"
+"έχει εξαφανιστεί. Παρακαλώ αποθηκεύστε ένα αντίγραφο του αρχείου για να "
+"συνεχίσετε."
 
-#, c-format
 msgid ""
 "Cannot merge differences when documents are not in synch.\n"
 "\n"
 "Refresh documents before continuing."
 msgstr ""
-"Η συγχώνευση των διαφορών είναι αδύνατη όταν τα αρχεία δεν είναι συγχρονισμένα.\n"
+"Η συγχώνευση των διαφορών είναι αδύνατη όταν τα αρχεία δεν είναι "
+"συγχρονισμένα.\n"
 "\n"
 "Ανανεώστε τα αρχεία πριν συνεχίσετε."
 
@@ -3168,25 +2747,25 @@ msgid "Break at whitespace or punctuation"
 msgstr "Στάση στα κενά ή στα σημεία στίξεως"
 
 msgid "Copy to &Middle\tAlt+Right"
-msgstr ""
+msgstr "Αντιγραφή προς το &Μεσαίο\tAlt+Right"
 
 msgid "Copy to &Middle\tAlt+Left"
-msgstr ""
+msgstr "Αντιγραφή προς το &Μεσαίο\tAlt+Left"
 
 msgid "Copy from Middle\tAlt+Shift+Right"
-msgstr ""
+msgstr "Αντιγραφή από Μεσαίο\tAlt+Shift+Right"
 
 msgid "Copy from Middle\tAlt+Shift+Left"
-msgstr ""
+msgstr "Αντιγραφή από Μεσαίο\tAlt+Shift+Left"
 
 msgid "Copy to Middle and Advance\tCtrl+Alt+Right"
-msgstr ""
+msgstr "Αντιγραφή προς το Μεσαίο και Μετάβαση σε Επομένη\tCtrl+Alt+Right"
 
 msgid "Copy to Middle and Advance\tCtrl+Alt+Left"
-msgstr ""
+msgstr "Αντιγραφή προς το Μεσαίο και Μετάβαση σε Επομένη\tCtrl+Alt+Left"
 
 msgid "Copy All to Middle"
-msgstr ""
+msgstr "Αντιγραφή Ολων στο Μεσαίο"
 
 #, c-format
 msgid "Right to Left (%1)"
@@ -3194,15 +2773,15 @@ msgstr "Δεξιό στο Αριστερό (%1)"
 
 #, c-format
 msgid "Right to Middle (%1)"
-msgstr ""
+msgstr "Δεξιό στο Μεσαίο (%1)"
 
 #, c-format
 msgid "Middle to Left (%1)"
-msgstr ""
+msgstr "Μεσαίο στο Αριστερό (%1)"
 
 #, c-format
 msgid "Middle to Right (%1)"
-msgstr ""
+msgstr "Μεσαίο στο Δεξιό (%1)"
 
 #, c-format
 msgid "Left to Right (%1)"
@@ -3210,7 +2789,7 @@ msgstr "Αριστερό στο Δεξιό (%1)"
 
 #, c-format
 msgid "Left to Middle (%1)"
-msgstr ""
+msgstr "Αριστερό στο Μεσαίο (%1)"
 
 #, c-format
 msgid "Left to... (%1)"
@@ -3218,7 +2797,7 @@ msgstr "Αριστερό στο... (%1)"
 
 #, c-format
 msgid "Middle to... (%1)"
-msgstr ""
+msgstr "Μεσαίο στο... (%1)"
 
 #, c-format
 msgid "Right to... (%1)"
@@ -3226,15 +2805,15 @@ msgstr "Δεξιό στο... (%1)"
 
 #, c-format
 msgid "Both to... (%1)"
-msgstr ""
+msgstr "Και τα δύο... (%1)"
 
 #, c-format
 msgid "All to... (%1)"
-msgstr ""
+msgstr "Όλα για... (%1)"
 
 #, c-format
 msgid "Differences to... (%1)"
-msgstr ""
+msgstr "Διαφορές στο... (%1)"
 
 #, c-format
 msgid "Left (%1)"
@@ -3242,7 +2821,7 @@ msgstr "Αριστερό (%1)"
 
 #, c-format
 msgid "Middle (%1)"
-msgstr ""
+msgstr "Μεσαίο (%1)"
 
 #, c-format
 msgid "Right (%1)"
@@ -3254,17 +2833,14 @@ msgstr "Αμφότερα (%1)"
 
 #, c-format
 msgid "All (%1)"
-msgstr ""
+msgstr "Όλα (%1)"
 
-#, c-format
 msgid "Left side - select destination folder:"
 msgstr "Αριστερή πλευρά - επιλογή φακέλου προορισμού:"
 
-#, c-format
 msgid "Middle side - select destination folder:"
-msgstr ""
+msgstr "Μεσαία πλευρά - επιλογή φακέλου προορισμού:"
 
-#, c-format
 msgid "Right side - select destination folder:"
 msgstr "Δεξιά πλευρά - επιλογή φακέλου προορισμού:"
 
@@ -3318,29 +2894,33 @@ msgstr "Είσθε βέβαιος ότι επιθυμείτε να μετακι�
 msgid "Are you sure you want to move %d items?"
 msgstr "Είσθε βέβαιος ότι επιθυμείτε να μετακινήσετε %d αντικείμενα?"
 
-#, c-format
 msgid "Confirm Move"
 msgstr "Επιβεβαιώσατε Μετακίνηση"
 
-#, c-format
-msgid "You are about to close the window that is comparing folders. Are you sure you want to close the window?"
+msgid ""
+"You are about to close the window that is comparing folders. Are you sure "
+"you want to close the window?"
 msgstr ""
+"Πρόκειται να κλείσετε το παράθυρο που συγκρίνει φακέλους. Είστε σίγουροι ότι "
+"θέλετε να κλείσετε το παράθυρο;"
 
 msgid "The file or folder name is invalid."
-msgstr ""
+msgstr "Το όνομα αρχείου ή φακέλου δεν είναι έγκυρο."
 
 #, c-format
 msgid "Failed to execute external editor: %1"
 msgstr "Αποτυχία κατά το άνοιγμα άλλης εφαρμογής: %1"
 
-#, c-format
 msgid "Unknown archive format"
 msgstr "Άγνωστη μορφή συμπιεσμένου αρχείου"
 
-msgid "Failed to extract archive files.\nDo you want to compare the archive files as text files?"
+msgid ""
+"Failed to extract archive files.\n"
+"Do you want to compare the archive files as text files?"
 msgstr ""
+"Αποτυχία εξαγωγής αρχείων αρχειοθέτησης.\n"
+"Θέλετε να συγκρίνετε τα αρχεία αρχειοθέτησης ως αρχεία κειμένου;"
 
-#, c-format
 msgid "Filename"
 msgstr "Όνομα Αρχείου"
 
@@ -3348,113 +2928,86 @@ msgctxt "DirView|ColumnHeader"
 msgid "Folder"
 msgstr "Φάκελος"
 
-#, c-format
 msgid "Comparison result"
 msgstr "Αποτέλεσμα Συγκρίσεως"
 
-#, c-format
 msgid "Left Date"
 msgstr "Ημερομηνία Αριστερού"
 
-#, c-format
 msgid "Right Date"
 msgstr "Ημερομηνία Δεξιού"
 
-#, c-format
 msgid "Middle Date"
-msgstr ""
+msgstr "Ημερομηνία Μεσαίου"
 
-#, c-format
 msgid "Left Size"
 msgstr "Μέγεθος Αριστερού"
 
-#, c-format
 msgid "Right Size"
 msgstr "Μέγεθος Δεξιού"
 
-#, c-format
 msgid "Middle Size"
-msgstr ""
+msgstr "Μέγεθος Μεσαίου"
 
-#, c-format
 msgid "Right Size (Short)"
 msgstr "Μέγεθος Δεξιού (Σύντομο)"
 
-#, c-format
 msgid "Left Size (Short)"
 msgstr "Μέγεθος Αριστερού (Σύντομο)"
 
-#, c-format
 msgid "Middle Size (Short)"
-msgstr ""
+msgstr "Μέγεθος Μεσαίου (Σύντομο)"
 
-#, c-format
 msgid "Left Creation Time"
 msgstr "Χρόνος Δημιουργίας Αριστερού"
 
-#, c-format
 msgid "Right Creation Time"
 msgstr "Χρόνος Δημιουργίας Δεξιού"
 
-#, c-format
 msgid "Middle Creation Time"
-msgstr ""
+msgstr "Χρόνος Δημιουργίας Μεσαίου"
 
-#, c-format
 msgid "Newer File"
 msgstr "Νεώτερο Αρχείο"
 
-#, c-format
 msgid "Left File Version"
 msgstr "Έκδοση Αριστερού Αρχείου"
 
-#, c-format
 msgid "Right File Version"
 msgstr "Έκδοση Δεξιού Αρχείου"
 
-#, c-format
 msgid "Middle File Version"
-msgstr ""
+msgstr "Έκδοση Μεσαίου Αρχείου"
 
-#, c-format
 msgid "Short Result"
 msgstr "Σύντομο Αποτέλεσμα"
 
-#, c-format
 msgid "Left Attributes"
 msgstr "Ιδιότητες Αριστερού"
 
-#, c-format
 msgid "Right Attributes"
 msgstr "Ιδιότητες Δεξιού"
 
-#, c-format
 msgid "Middle Attributes"
-msgstr ""
+msgstr "Ιδιότητες Μεσαίου"
 
-#, c-format
 msgid "Left EOL"
 msgstr "Χαρακτήρας Τερματισμού Αριστερού"
 
-#, c-format
 msgid "Middle EOL"
-msgstr ""
+msgstr "Χαρακτήρας Τερματισμού Μεσαίου"
 
-#, c-format
 msgid "Right EOL"
 msgstr "Χαρακτήρας Τερματισμού Δεξιού"
 
-#, c-format
 msgid "Left Encoding"
 msgstr "Κωδικοσελίδα Αριστερού"
 
-#, c-format
 msgid "Right Encoding"
 msgstr "Κωδικοσελίδα Δεξιού"
 
-#, c-format
 msgid "Middle Encoding"
-msgstr ""
+msgstr "Κωδικοποίηση Μεσαίου"
 
 msgid "Ignored Diff"
 msgstr "Αγνοηθείσα Διαφορά"
@@ -3463,111 +3016,105 @@ msgctxt "DirView|ColumnHeader"
 msgid "Binary"
 msgstr "Δυαδικό"
 
-#, c-format
 msgid "Unpacker"
 msgstr "Αποσυμπιεστικό"
 
-#, c-format
 msgid "Prediffer"
 msgstr "Προεπεξεργαστής Διαφορών"
 
 msgid "Left"
-msgstr ""
+msgstr "Αριστερό"
 
 msgid "Middle"
-msgstr ""
+msgstr "Μεσαίο"
 
 msgid "Right"
-msgstr ""
+msgstr "Δεξιό"
 
 msgid "Diff"
-msgstr ""
+msgstr "Diff"
 
 msgid "Left Duplicate Count"
-msgstr ""
+msgstr "Αριθμός Διπλότυπων Αριστερού"
 
 msgid "Right Duplicate Count"
-msgstr ""
+msgstr "Αριθμός Διπλότυπων Δεξιού"
 
 msgid "Middle Duplicate Count"
-msgstr ""
+msgstr "Αριθμός διπλότυπων Μεσαίου"
 
 msgid "Move"
-msgstr ""
+msgstr "Μετακίνηση"
 
 msgid "Audio"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "Calendar"
-msgstr ""
+msgstr "Ημερολόγιο"
 
 msgid "Communication"
-msgstr ""
+msgstr "Επικοινωνία"
 
 msgid "Contact"
-msgstr ""
+msgstr "Επαφή"
 
 msgid "Devices"
-msgstr ""
+msgstr "Συσκευή"
 
 msgid "Document"
-msgstr ""
+msgstr "Έγγραφο"
 
 msgid "Home"
-msgstr ""
+msgstr "Σπίτι"
 
 msgid "Journal"
-msgstr ""
+msgstr "Εφημερίδα"
 
 msgid "Link"
-msgstr ""
+msgstr "Σύνδεσμος"
 
 msgid "Media"
-msgstr ""
+msgstr "Πολυμέσο"
 
 msgid "Music"
-msgstr ""
+msgstr "Μουσική"
 
 msgid "Note"
-msgstr ""
+msgstr "Σημείωση"
 
 msgid "Photo"
-msgstr ""
+msgstr "Φωτογραφία"
 
 msgid "RecordedTV"
-msgstr ""
+msgstr "RecordedTV"
 
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 msgid "Security"
-msgstr ""
+msgstr "Ασφάλεια"
 
 msgid "Software"
-msgstr ""
+msgstr "Λογισμικό"
 
 msgid "Task"
-msgstr ""
+msgstr "Εργασία"
 
 msgid "Video"
-msgstr ""
+msgstr "Βίντεο"
 
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
 
-#, c-format
 msgid "Unable to compare files"
 msgstr "Η σύγκριση των αρχείων είναι αδύνατη"
 
-#, c-format
 msgid "Item aborted"
 msgstr "Το αντικείμενο ματαιώθηκε"
 
-#, c-format
 msgid "File skipped"
 msgstr "Το αρχείο παρελείφθη"
 
-#, c-format
 msgid "Folder skipped"
 msgstr "Ο φάκελος παρελείφθη"
 
@@ -3577,7 +3124,7 @@ msgstr "Αριστερά μόνο: %1"
 
 #, c-format
 msgid "Middle only: %1"
-msgstr ""
+msgstr "Μεσαίο μόνο: %1"
 
 #, c-format
 msgid "Right only: %1"
@@ -3585,84 +3132,70 @@ msgstr "Δεξιά μόνο: %1"
 
 #, c-format
 msgid "Does not exist in %1"
-msgstr ""
+msgstr "Δεν υπάρχει σε %1"
 
-#, c-format
 msgid "Binary files are identical"
 msgstr "Τα δυαδικά αρχεία είναι πανομοιότυπα"
 
-#, c-format
 msgid "Binary files are different"
 msgstr "Τα δυαδικά αρχεία είναι διαφορετικά"
 
-#, c-format
 msgid "Files are different"
 msgstr "Τα αρχεία είναι διαφορετικά"
 
-#, c-format
 msgid "Folders are different"
-msgstr ""
+msgstr "Οι φάκελοι είναι διαφορετικοί"
 
-#, c-format
 msgid "Left Only"
 msgstr "Αριστερά μόνο"
 
-#, c-format
 msgid "Right Only"
 msgstr "Δεξιά μόνο"
 
-#, c-format
 msgid "Middle Only"
-msgstr ""
+msgstr "Μεσαίο μόνο"
 
-#, c-format
 msgid "No item in left"
-msgstr ""
+msgstr "Κανένα στοιχείο στο αριστερό"
 
-#, c-format
 msgid "No item in right"
-msgstr ""
+msgstr "Κανένα στοιχείο στο δεξιό"
 
-#, c-format
 msgid "No item in middle"
-msgstr ""
+msgstr "Κανένα στοιχείο στο μεσαίο"
 
-#, c-format
 msgid "Error"
 msgstr "Σφάλμα"
 
-#, c-format
 msgid "Text files are identical"
-msgstr ""
+msgstr "Τα αρχεία κειμένου είναι πανομοιότυπα"
 
 msgid " (Middle and right are identical)"
-msgstr ""
+msgstr " (Το μεσαίο και το δεξιό είναι πανομοιότυπα)"
 
 msgid " (Left and right are identical)"
-msgstr ""
+msgstr " (Το αριστερό και το δεξιό είναι πανομοιότυπα)"
 
 msgid " (Left and middle are identical)"
-msgstr ""
+msgstr " (Το αριστερό και το μεσαίο είναι πανομοιότυπα)"
 
-#, c-format
 msgid "Text files are different"
-msgstr ""
+msgstr "Τα αρχεία κειμένου είναι διαφορετικά"
 
 msgid "Image files are identical"
-msgstr ""
+msgstr "Τα αρχεία εικόνας είναι πανομοιότυπα"
 
 msgid "Image files are different"
-msgstr ""
+msgstr "Τα αρχεία εικόνας είναι διαφορετικά"
 
 #, c-format
 msgid "Group%d"
-msgstr ""
+msgstr "Ομάδα%d"
 
 #, c-format
 msgid "Elapsed time: %ld ms"
 msgstr "Παρελθών χρόνος: %ld ms"
 
-#, c-format
 msgid "1 item selected"
 msgstr "1 αντικείμενο επιλεγμένο"
 
@@ -3670,73 +3203,57 @@ msgstr "1 αντικείμενο επιλεγμένο"
 msgid "%1 items selected"
 msgstr "%1 αντικείμενα επιλεγμένα"
 
-#, c-format
 msgid "Filename or folder name."
 msgstr "Όνομα αρχείου ή όνομα φακέλου."
 
-#, c-format
 msgid "Subfolder name when subfolders are included."
 msgstr "Όνομα υποφακέλου όταν οι υποφάκελοι περιλαμβάνονται."
 
-#, c-format
 msgid "Comparison result, long form."
-msgstr "Αποτέλεσμα συγκρίσεως, πλήρης ανάπτυξη"
+msgstr "Αποτέλεσμα συγκρίσεως, πλήρης ανάπτυξη."
 
-#, c-format
 msgid "Left side modification date."
 msgstr "Ημερομηνία τροποποιήσεως αριστερής πλευράς."
 
-#, c-format
 msgid "Right side modification date."
 msgstr "Ημερομηνία τροποποιήσεως δεξιάς πλευράς."
 
-#, c-format
 msgid "Middle side modification date."
-msgstr ""
+msgstr "Ημερομηνία τροποποιήσεως Μεσαίας πλευράς."
 
-#, c-format
 msgid "File's extension."
 msgstr "Επέκταση αρχείου."
 
-#, c-format
 msgid "Left file size in bytes."
 msgstr "Μέγεθος αριστερού αρχείου σε byte."
 
-#, c-format
 msgid "Right file size in bytes."
 msgstr "Μέγεθος δεξιού αρχείου σε byte."
 
-#, c-format
 msgid "Middle file size in bytes."
-msgstr ""
+msgstr "Μέγεθος μεσαίου αρχείου σε byte."
 
-#, c-format
 msgid "Left file size abbreviated."
 msgstr "Μέγεθος αριστερού αρχείου συντομευμένο."
 
-#, c-format
 msgid "Right file size abbreviated."
 msgstr "Μέγεθος δεξιού αρχείου συντομευμένο."
 
-#, c-format
 msgid "Middle file size abbreviated."
-msgstr ""
+msgstr "Μέγεθος μεσαίου αρχείου συντομευμένο."
 
-#, c-format
 msgid "Left side creation time."
 msgstr "Χρόνος δημιουργίας αριστερής πλευράς."
 
-#, c-format
 msgid "Right side creation time."
 msgstr "Χρόνος δημιουργίας δεξιάς πλευράς."
 
-#, c-format
 msgid "Middle side creation time."
-msgstr ""
+msgstr "Χρόνος δημιουργίας μεσαίας πλευράς."
 
-#, c-format
 msgid "Tells which side has newer modification date."
-msgstr "Πληροφορεί ποια πλευρά έχει την πλέον πρόσφατη ημερομηνία τροποποιήσεως."
+msgstr ""
+"Πληροφορεί ποια πλευρά έχει την πλέον πρόσφατη ημερομηνία τροποποιήσεως."
 
 msgid "Left side file version, only for some file types."
 msgstr "Έκδοση αρχείου αριστερής πλευράς, μόνο για ορισμένους τύπους αρχείων."
@@ -3745,23 +3262,19 @@ msgid "Right side file version, only for some file types."
 msgstr "Έκδοση αρχείου δεξιάς πλευράς, μόνο για ορισμένους τύπους αρχείων."
 
 msgid "Middle side file version, only for some file types."
-msgstr ""
+msgstr "Έκδοση αρχείου μεσαίας πλευράς, μόνο για ορισμένους τύπους αρχείων."
 
-#, c-format
 msgid "Short comparison result."
 msgstr "Βραχύ αποτέλεσμα συγκρίσεως."
 
-#, c-format
 msgid "Left side attributes."
 msgstr "Ιδιότητες αριστερής πλευράς."
 
-#, c-format
 msgid "Right side attributes."
 msgstr "Ιδιότητες δεξιάς πλευράς."
 
-#, c-format
 msgid "Middle side attributes."
-msgstr ""
+msgstr "Ιδιότητες μεσαίας πλευράς."
 
 msgid "Left side file EOL type."
 msgstr "Τύπος χαρακτήρα τερματισμού αριστερής πλευράς."
@@ -3770,37 +3283,39 @@ msgid "Right side file EOL type."
 msgstr "Τύπος χαρακτήρα τερματισμού δεξιάς πλευράς."
 
 msgid "Middle side file EOL type."
-msgstr ""
+msgstr "Τύπος χαρακτήρα τερματισμού μεσαίας πλευράς."
 
-#, c-format
 msgid "Left side encoding."
 msgstr "Κωδικοσελίδα αριστερής πλευράς."
 
-#, c-format
 msgid "Right side encoding."
 msgstr "Κωδικοσελίδα δεξιάς πλευράς."
 
-#, c-format
 msgid "Middle side encoding."
+msgstr "Κωδικοσελίδα μεσαίας πλευράς."
+
+msgid ""
+"Number of ignored differences in file. These differences are ignored by "
+"WinMerge and cannot be merged."
 msgstr ""
+"Αριθμός αγνοηθεισών διαφορών στο αρχείο. Αυτές οι διαφορές αγνοούνται από το "
+"WinMerge και δεν είναι δυνατόν να συγχωνευθούν."
 
-#, c-format
-msgid "Number of ignored differences in file. These differences are ignored by WinMerge and cannot be merged."
-msgstr "Αριθμός αγνοηθεισών διαφορών στο αρχείο. Αυτές οι διαφορές αγνοούνται από το WinMerge και δεν είναι δυνατόν να συγχωνευθούν."
+msgid ""
+"Number of differences in file. This number does not include ignored "
+"differences."
+msgstr ""
+"Αριθμός διαφορών στο αρχείο. Αυτός ο αριθμός δεν περιλαμβάνει αγνοηθείσες "
+"διαφορές."
 
-#, c-format
-msgid "Number of differences in file. This number does not include ignored differences."
-msgstr "Αριθμός διαφορών στο αρχείο. Αυτός ο αριθμός δεν περιλαμβάνει αγνοηθείσες διαφορές."
-
-#, c-format
 msgid "Shows an asterisk (*) if the file is binary."
 msgstr "Εμφανίζει έναν αστερίσκο (*) εάν το αρχείο είναι δυαδικό."
 
 msgid "Unpacker plugin name or pipeline."
-msgstr ""
+msgstr "Αποσυσκευασία ονόματος αρθρώματος ή αγωγού."
 
 msgid "Prediffer plugin name or pipeline."
-msgstr ""
+msgstr "Όνομα αρθρώματος ή αγωγού Prediffer."
 
 #, c-format
 msgid "Compare %1 with %2"
@@ -3808,27 +3323,24 @@ msgstr "Σύγκριση %1 με %2"
 
 #, c-format
 msgid "Compare %1 with %2 and %3"
-msgstr ""
+msgstr "Σύγκριση %1 με %2 και %3"
 
-#, c-format
 msgid "Comma-separated list"
 msgstr "Κατάλογος με κόμμα ως χαρακτήρα διαχωρισμού"
 
-#, c-format
 msgid "Tab-separated list"
 msgstr "Κατάλογος με στηλοθέτη ως χαρακτήρα διαχωρισμού"
 
-#, c-format
 msgid "Simple HTML"
 msgstr "Απλό HTML"
 
-#, c-format
 msgid "Simple XML"
 msgstr "Απλό XML"
 
-#, c-format
 msgid "The report file already exists. Do you want to overwrite existing file?"
-msgstr "Το αρχείο αναφοράς αποτελεσμάτων υπάρχει ήδη. Επιθυμείτε να αντικαταστήσετε το υπάρχον αρχείο;"
+msgstr ""
+"Το αρχείο αναφοράς αποτελεσμάτων υπάρχει ήδη. Επιθυμείτε να αντικαταστήσετε "
+"το υπάρχον αρχείο;"
 
 #, c-format
 msgid ""
@@ -3838,42 +3350,50 @@ msgstr ""
 "Σφάλμα κατά τη δημιουργία της αναφοράς αποτελεσμάτων:\n"
 "%1"
 
-#, c-format
 msgid "The report has been created successfully."
 msgstr "Η αναφορά αποτελεσμάτων δημιουργήθηκε επιτυχώς."
 
 msgid "Cannot add a synchronization point at this line."
-msgstr ""
+msgstr "Δεν είναι δυνατή η προσθήκη σημείου συγχρονισμού σε αυτή τη γραμμή."
 
-#, c-format
 msgid "The same file is opened in both panels."
 msgstr "Το ίδιο αρχείο ανοίχθηκε σε αμφότερα τα πεδία."
 
-#, c-format
 msgid "The selected files are identical."
 msgstr "Τα επιλεγμένα αρχεία είναι πανομοιότυπα."
 
-#, c-format
 msgid "An error occurred while comparing the files."
 msgstr "Παρουσιάσθηκε κάποιο σφάλμα κατά τη σύγκριση των αρχείων."
 
-#, c-format
-msgid "Temporary files could not be created. Check your temporary path settings."
-msgstr "Η δημιουργία προσωρινών αρχείων δεν ήταν δυνατή. Ελέγξτε τις ρυθμίσεις σας τις σχετικές με την προσωρινή διαδρομή."
+msgid ""
+"Temporary files could not be created. Check your temporary path settings."
+msgstr ""
+"Η δημιουργία προσωρινών αρχείων δεν ήταν δυνατή. Ελέγξτε τις ρυθμίσεις σας "
+"τις σχετικές με την προσωρινή διαδρομή."
 
-msgid "These files use different carriage return types.\n\nDo you want to treat all carriage return types as equivalent for this comparison?\n\nNote: If you always want to treat all carriage return types as equivalent, set the option 'Ignore carriage return differences (Windows/Unix/Mac)' in the Compare tab of the options dialog (available under Edit/Options)."
+msgid ""
+"These files use different carriage return types.\n"
+"\n"
+"Do you want to treat all carriage return types as equivalent for this "
+"comparison?\n"
+"\n"
+"Note: If you always want to treat all carriage return types as equivalent, "
+"set the option 'Ignore carriage return differences (Windows/Unix/Mac)' in "
+"the Compare tab of the options dialog (available under Edit/Options)."
 msgstr ""
 "Αυτά τα αρχεία χρησιμοποιούν διαφορετικό χαρακτήρα τερματισμού.\n"
 "\n"
-"Επιθυμείτε οι χαρακτήρες τερματισμού να θεωρηθούν ισοδύναμοι κατά την τρέχουσα σύγκριση;\n"
+"Επιθυμείτε οι χαρακτήρες τερματισμού να θεωρηθούν ισοδύναμοι κατά την "
+"τρέχουσα σύγκριση;\n"
 "\n"
-"Σημείωση: Εάν επιθυμείτε οι χαρακτήρες τερματισμού να θεωρούνται πάντοτε ισοδύναμοι, ενεργοποιείστε την επιλογή \"Διαφορές χαρακτήρων τερματισμού (Win/Unix/Mac) να αγνοούνται...\" στην καρτέλα Σύγκριση του διαλόγου επιλογών (εμφανίζεται με την επιλογή Επεξεργασία/Επιλογές)."
+"Σημείωση: Εάν επιθυμείτε οι χαρακτήρες τερματισμού να θεωρούνται πάντοτε "
+"ισοδύναμοι, ενεργοποιείστε την επιλογή \"Διαφορές χαρακτήρων τερματισμού "
+"(Win/Unix/Mac) να αγνοούνται...\" στην καρτέλα Σύγκριση του διαλόγου "
+"επιλογών (εμφανίζεται με την επιλογή Επεξεργασία/Επιλογές)."
 
-#, c-format
 msgid "The selected folder is invalid."
 msgstr "Ο επιλεγμένος φάκελος δεν είναι έγκυρος."
 
-#, c-format
 msgid "Cannot open a binary file to editor."
 msgstr "Το άνοιγμα δυαδικού αρχείου στο πεδίο επεξεργασίας δεν είναι δυνατόν."
 
@@ -3891,56 +3411,54 @@ msgstr ""
 "%1\n"
 "στην άλλη πλευρά και να ανοίξετε αυτούς τους φακέλους;"
 
-#, c-format
 msgid "Do you want to move to the next file?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στο επόμενο αρχείο;"
 
-#, c-format
 msgid "Do you want to move to the previous file?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στο προηγούμενο αρχείο;"
 
-#, c-format
 msgid "Do you want to move to the next page?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στην επόμενη σελίδα;"
 
-#, c-format
 msgid "Do you want to move to the previous page?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στην προηγούμενη σελίδα;"
 
 msgid "Do you want to move to the first file?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στο πρώτο αρχείο;"
 
 msgid "Do you want to move to the last file?"
-msgstr ""
+msgstr "Θέλετε να προχωρήσετε στο τελευταίο αρχείο;"
 
 #, c-format
-msgid "Different codepages found in left (cp%d) and right (cp%d) files.\nDisplaying each file in its codepage will give a better display but merging/copying will be dangerous.\nWould you like to treat both files as being in the default Windows codepage (recommended)?"
+msgid ""
+"Different codepages found in left (cp%d) and right (cp%d) files.\n"
+"Displaying each file in its codepage will give a better display but merging/"
+"copying will be dangerous.\n"
+"Would you like to treat both files as being in the default Windows codepage "
+"(recommended)?"
 msgstr ""
-"Διαφορετικές κωδικοσελίδες ανιχνεύθηκαν στον αριστερό (cp%d) και στο δεξιό (cp%d) φάκελο.\n"
-"Η εμφάνιση κάθε φακέλου με τη δική του κωδικοσελίδα θα έχει εμφανισιακά καλύτερα αποτελέσματα αλλά η συγχώνευση/αντιγραφή θα είναι επικίνδυνη.\n"
-"Επιθυμείτε να θεωρηθεί ότι αμφότερα τα αρχεία χρησιμοποιούν την προκαθορισμένη κωδικοσελίδα του windows (συνιστάται);"
+"Διαφορετικές κωδικοσελίδες ανιχνεύθηκαν στον αριστερό (cp%d) και στο δεξιό "
+"(cp%d) φάκελο.\n"
+"Η εμφάνιση κάθε φακέλου με τη δική του κωδικοσελίδα θα έχει εμφανισιακά "
+"καλύτερα αποτελέσματα αλλά η συγχώνευση/αντιγραφή θα είναι επικίνδυνη.\n"
+"Επιθυμείτε να θεωρηθεί ότι αμφότερα τα αρχεία χρησιμοποιούν την "
+"προκαθορισμένη κωδικοσελίδα του windows (συνιστάται);"
 
-#, c-format
 msgid "Information lost due to encoding errors: both files"
 msgstr "Απώλεια πληροφοριών λόγω σφαλμάτος κωδικοσελίδας: αμφότερα τα αρχεία"
 
-#, c-format
 msgid "Information lost due to encoding errors: first file"
-msgstr ""
+msgstr "Πληροφορίες που χάθηκαν λόγω σφαλμάτων κωδικοποίησης: πρώτο αρχείο"
 
-#, c-format
 msgid "Information lost due to encoding errors: second file"
-msgstr ""
+msgstr "Πληροφορίες που χάθηκαν λόγω σφαλμάτων κωδικοποίησης: δεύτερο αρχείο"
 
-#, c-format
 msgid "Information lost due to encoding errors: third file"
-msgstr ""
+msgstr "Πληροφορίες που χάθηκαν λόγω σφαλμάτων κωδικοποίησης: τρίτο αρχείο"
 
-#, c-format
 msgid "No difference"
 msgstr "Χωρίς διαφορά"
 
-#, c-format
 msgid "Line difference"
 msgstr "Διαφορά γραμμής"
 
@@ -3950,46 +3468,50 @@ msgstr "Αντικαταστάθηκαν %1 ακολουθίες χαρακτή�
 
 #, c-format
 msgid "Cannot find string \"%s\"."
-msgstr "Η ακολουθία χαρακτήρων \"%s\"
+msgstr "Η ακολουθία χαρακτήρων \"%s\"."
 
-msgid "You are now entering Merge Mode. If you want to turn off Merge Mode, press F9 key."
+msgid ""
+"You are now entering Merge Mode. If you want to turn off Merge Mode, press "
+"F9 key."
 msgstr ""
+"Εισέρχεστε τώρα σε λειτουργία συγχώνευσης. Αν θέλετε να απενεργοποιήσετε τη "
+"λειτουργία συγχώνευσης, πατήστε το πλήκτρο F9."
 
 #, c-format
-msgid "The number of automatically merged changes: %1\nThe number of unresolved conflicts: %2"
+msgid ""
+"The number of automatically merged changes: %1\n"
+"The number of unresolved conflicts: %2"
 msgstr ""
+"Ο αριθμός των αλλαγών που συγχωνεύτηκαν αυτόματα: %1\n"
+"Ο αριθμός των ανεπίλυτων διενέξεων: %2"
 
 msgid "The change of codepage has been merged."
-msgstr ""
+msgstr "Η αλλαγή της κωδικοσελίδας έχει συγχωνευθεί."
 
 msgid "The changes of codepage are conflicting."
-msgstr ""
+msgstr "Οι αλλαγές της κωδικοσελίδας έρχονται σε διένεξη."
 
 msgid "The change of EOL has been merged."
-msgstr ""
+msgstr "Η αλλαγή του EOL έχει συγχωνευθεί."
 
 msgid "The changes of EOL are conflicting."
-msgstr ""
+msgstr "Η αλλαγή του EOL έρχονται σε διένεξη."
 
-#, c-format
 msgid "Location Pane"
 msgstr "Πεδίο Εντοπισμού"
 
-#, c-format
 msgid "Diff Pane"
 msgstr "Πεδίο Διαφορών"
 
-#, c-format
 msgid "Patch file successfully written."
 msgstr "Η εγγραφή του αρχείου patch ολοκληρώθηκε επιτυχώς."
 
 msgid "1. item is not found!"
-msgstr ""
+msgstr "1. το στοιχείο δεν βρέθηκε!"
 
 msgid "2. item is not found!"
-msgstr ""
+msgstr "2. το στοιχείο δεν βρέθηκε!"
 
-#, c-format
 msgid "The patch file already exists. Do you want to overwrite it?"
 msgstr "Το αρχείο patch υπάρχει ήδη. Επιθυμείτε να το αντικαταστήσετε;"
 
@@ -3997,15 +3519,12 @@ msgstr "Το αρχείο patch υπάρχει ήδη. Επιθυμείτε να
 msgid "[%1 files selected]"
 msgstr "[%1 επιλεγμένα αρχεία]"
 
-#, c-format
 msgid "Normal"
 msgstr "Κανονικό"
 
-#, c-format
 msgid "Context"
 msgstr "Με περιβάλλον κείμενο"
 
-#, c-format
 msgid "Unified"
 msgstr "Ενοποιημένο"
 
@@ -4020,11 +3539,9 @@ msgstr "Η ορισθείσα διαδρομή εξόδου δεν είναι α
 msgid "Specify an output file."
 msgstr "Ορίσατε ένα αρχείο εξόδου."
 
-#, c-format
 msgid "Cannot create a patch file from binary files."
 msgstr "Η δημιουργία αρχείου patch από δυαδικά αρχεία δεν είναι δυνατή."
 
-#, c-format
 msgid ""
 "Please save all files first.\n"
 "\n"
@@ -4032,43 +3549,42 @@ msgid ""
 msgstr ""
 "Παρακαλώ αποθηκεύσατε πρώτα όλα τα αρχεία.\n"
 "\n"
-"Η δημιουργία patch απαιτεί να μην υπάρχουν σε αρχεία αλλαγές οι οποίες δεν έχουν αποθηκευθεί."
+"Η δημιουργία patch απαιτεί να μην υπάρχουν σε αρχεία αλλαγές οι οποίες δεν "
+"έχουν αποθηκευθεί."
 
-#, c-format
 msgid "Folder does not exist."
 msgstr "Ο φάκελος δεν υπάρχει."
 
-msgid "Archive support is not enabled.\nAll needed components (7-Zip and/or Merge7z*.dll) for archive support cannot be found.\nSee manual for more info about archive support and how to enable it."
+msgid ""
+"Archive support is not enabled.\n"
+"All needed components (7-Zip and/or Merge7z*.dll) for archive support cannot "
+"be found.\n"
+"See manual for more info about archive support and how to enable it."
 msgstr ""
 "Η υποστήριξη συμπιεσμένων αρχείων δεν είναι ενεργοποιημένη.\n"
-"Δεν είναι δυνατόν να βρεθούν όλα τα απαραίτητα στοιχεία (το 7-Zip και/ή το Merge7z*.dll) για την υποστήριξη συμπιεσμένων αρχείων.\n"
-"Δείτε στο εγχειρίδιο για περισσότερες πληροφορίες σχετικά με την υποστήριξη συμπιεσμένων αρχείων και με τον τρόπο ενεργοποιήσεως αυτής."
+"Δεν είναι δυνατόν να βρεθούν όλα τα απαραίτητα στοιχεία (το 7-Zip και/ή το "
+"Merge7z*.dll) για την υποστήριξη συμπιεσμένων αρχείων.\n"
+"Δείτε στο εγχειρίδιο για περισσότερες πληροφορίες σχετικά με την υποστήριξη "
+"συμπιεσμένων αρχείων και με τον τρόπο ενεργοποιήσεως αυτής."
 
-#, c-format
 msgid "Select file for export"
 msgstr "Επιλέξατε αρχείο προς εξαγωγή"
 
-#, c-format
 msgid "Select file for import"
 msgstr "Επιλέξατε αρχείο προς εισαγωγή"
 
-#, c-format
 msgid "Options imported from the file."
 msgstr "Οι ρυθμίσεις εισήχθησαν από το αρχείο."
 
-#, c-format
 msgid "Options exported to the file."
 msgstr "Οι ρυθμίσεις εξήχθησαν στο αρχείο."
 
-#, c-format
 msgid "Failed to import options from the file."
 msgstr "Αποτυχία εισαγωγής ρυθμίσεων από το αρχείο."
 
-#, c-format
 msgid "Failed to write options to the file."
 msgstr "Αποτυχία εγγραφής ρυθμίσεων στο αρχείο."
 
-#, c-format
 msgid ""
 "You are about to close several compare windows.\n"
 "\n"
@@ -4078,7 +3594,6 @@ msgstr ""
 "\n"
 "Επιθυμείτε να συνεχίσετε;"
 
-#, c-format
 msgid "Mixed"
 msgstr "Μικτό"
 
@@ -4086,669 +3601,887 @@ msgctxt "EOL Type"
 msgid "Binary"
 msgstr "Δυαδικό"
 
-#, c-format
 msgid "None"
 msgstr "Χωρίς"
 
 #, c-format
 msgid "Marker Color %d"
-msgstr ""
+msgstr "Χρώμα Σήμανσης %d"
 
 msgid "New Pattern"
-msgstr ""
+msgstr "Νέο Μοτίβο"
 
-#, c-format
 msgid "Type"
 msgstr "Τύπος"
 
-#, c-format
 msgid "Editor script"
 msgstr "Μακροεντολές Επεξεργαστή Κειμένου"
 
-#, c-format
-msgid "\nDifference in the Current Line"
+msgid ""
+"\n"
+"Difference in the Current Line"
 msgstr ""
+"\n"
+"Διαφορά στην Τρέχουσα γραμμή"
 
-#, c-format
-msgid "\nOptions"
+msgid ""
+"\n"
+"Options"
 msgstr ""
+"\n"
+"Επιλογές"
 
-#, c-format
-msgid "\nRefresh (F5)"
+msgid ""
+"\n"
+"Refresh (F5)"
 msgstr ""
+"\n"
+"Ανανέωση (F5)"
 
-#, c-format
-msgid "\nPrevious Difference (Alt+Up)"
+msgid ""
+"\n"
+"Previous Difference (Alt+Up)"
 msgstr ""
+"\n"
+"Προηγούμενη Διαφορά (Alt+Up)"
 
-#, c-format
-msgid "\nNext Difference (Alt+Down)"
+msgid ""
+"\n"
+"Next Difference (Alt+Down)"
 msgstr ""
+"\n"
+"Επόμενη Διαφορά (Alt+Down)"
 
-#, c-format
-msgid "\nPrevious Conflict (Alt+Shift+Up)"
+msgid ""
+"\n"
+"Previous Conflict (Alt+Shift+Up)"
 msgstr ""
+"\n"
+"Προηγούμενη Διένεξη (Alt+Shift+Up)"
 
-#, c-format
-msgid "\nNext Conflict (Alt+Shift+Down)"
+msgid ""
+"\n"
+"Next Conflict (Alt+Shift+Down)"
 msgstr ""
+"\n"
+"Επόμενη Διένεξη (Alt+Shift+Down)"
 
-#, c-format
-msgid "\nFirst Difference (Alt+Home)"
+msgid ""
+"\n"
+"First Difference (Alt+Home)"
 msgstr ""
+"\n"
+"Πρώτη Διαφορά (Alt+Home)"
 
-#, c-format
-msgid "\nCurrent Difference (Alt+Enter)"
+msgid ""
+"\n"
+"Current Difference (Alt+Enter)"
 msgstr ""
+"\n"
+"Τρέχουσα Διαφορά (Alt+Enter)"
 
-#, c-format
-msgid "\nLast Difference (Alt+End)"
+msgid ""
+"\n"
+"Last Difference (Alt+End)"
 msgstr ""
+"\n"
+"Τελευταία Διαφορά (Alt+End)"
 
-msgid "\nCopy to Right (Alt+Right)"
+msgid ""
+"\n"
+"Copy to Right (Alt+Right)"
 msgstr ""
+"\n"
+"Αντιγραφή προς τα Δεξιά (Alt+Right)"
 
-msgid "\nCopy to Left (Alt+Left)"
+msgid ""
+"\n"
+"Copy to Left (Alt+Left)"
 msgstr ""
+"\n"
+"Αντιγραφή προς τα Αριστερά (Alt+Left)"
 
-msgid "\nCopy to Right and Advance (Ctrl+Alt+Right)"
+msgid ""
+"\n"
+"Copy to Right and Advance (Ctrl+Alt+Right)"
 msgstr ""
+"\n"
+"Αντιγραφή προς τα Δεξιά και Μετάβαση σε Επομένη (Ctrl+Alt+Right)"
 
-msgid "\nCopy to Left and Advance (Ctrl+Alt+Left)"
+msgid ""
+"\n"
+"Copy to Left and Advance (Ctrl+Alt+Left)"
 msgstr ""
+"\n"
+"Αντιγραφή προς τα Αριστερά και Μετάβαση σε Επομένη Ctrl+Alt+Left"
 
-msgid "\nCopy All to Right"
-msgstr "\nΑντιγραφή όλων Δεξιά"
-
-msgid "\nCopy All to Left"
-msgstr "\nΑντιγραφή όλων Αριστερά"
-
-#, c-format
-msgid "\nAuto Merge (Ctrl+Alt+M)"
+msgid ""
+"\n"
+"Copy All to Right"
 msgstr ""
+"\n"
+"Αντιγραφή όλων Δεξιά"
 
-msgid "\nFirst File"
+msgid ""
+"\n"
+"Copy All to Left"
 msgstr ""
+"\n"
+"Αντιγραφή όλων Αριστερά"
 
-msgid "\nNext File (Ctrl+F8)"
+msgid ""
+"\n"
+"Auto Merge (Ctrl+Alt+M)"
 msgstr ""
+"\n"
+"Αυτόματη Συγχώνευση (Ctrl+Alt+M)"
 
-msgid "\nLast File"
+msgid ""
+"\n"
+"First File"
 msgstr ""
+"\n"
+"Πρώτο Αρχείο"
 
-msgid "\nPrevious File (Ctrl+F7)"
+msgid ""
+"\n"
+"Next File (Ctrl+F8)"
 msgstr ""
+"\n"
+"Επόμενο Αρχείο (Ctrl+F8)"
 
-msgid "The adapted unpacker is applied to both files (one file only needs the extension)."
-msgstr "Το συνεργαζόμενο αποσυμπιεστικό ενεργεί σε αμφότερα τα αρχεία (μόνο ένα αρχείο χρειάζεται να έχει την επέκταση)."
+msgid ""
+"\n"
+"Last File"
+msgstr ""
+"\n"
+"Τελευταίο Αρχείο"
 
-#, c-format
+msgid ""
+"\n"
+"Previous File (Ctrl+F7)"
+msgstr ""
+"\n"
+"Προηγούμενο Αρχείο (Ctrl+F7)"
+
+msgid ""
+"The adapted unpacker is applied to both files (one file only needs the "
+"extension)."
+msgstr ""
+"Το συνεργαζόμενο αποσυμπιεστικό ενεργεί σε αμφότερα τα αρχεία (μόνο ένα "
+"αρχείο χρειάζεται να έχει την επέκταση)."
+
 msgid "No prediffer (normal)"
 msgstr "Χωρίς προεπεξεργασία διαφορών (Κανονική Λειτουργία)"
 
-#, c-format
 msgid "Suggested plugins"
 msgstr "Προτεινόμενα Αρθρώματα"
 
 msgid "All plugins"
-msgstr ""
+msgstr "Όλα τα Αρθρώματα"
 
 #, c-format
 msgid "Private Build: %1"
 msgstr "Ιδιωτική Μεταγλώττιση: %1"
 
 msgid "Your software is up to date."
-msgstr ""
+msgstr "Το λογισμικό σας είναι ενημερωμένο."
 
 #, c-format
-msgid "A new version of WinMerge is available.\n%1 is now available (you have %2). Would you like to download it now?"
+msgid ""
+"A new version of WinMerge is available.\n"
+"%1 is now available (you have %2). Would you like to download it now?"
 msgstr ""
+"Μια νέα έκδοση του WinMerge είναι διαθέσιμη.\n"
+"%1 είναι τώρα διαθέσιμη (έχετε την %2). Θα θέλατε να την κατεβάσετε τώρα;"
 
-#, c-format
 msgid "Failed to download latest version information"
-msgstr ""
+msgstr "Αποτυχία λήψης πληροφοριών τελευταίας έκδοσης"
 
-#, c-format
 msgid "Plugin Settings"
 msgstr "Ρυθμίσεις Αρθρωμάτων"
 
-#, c-format
 msgid "WSH not found - .sct scripts disabled"
-msgstr "Το Περιβάλλον Διερμηνείας Windows (WSH) δε βρέθηκε - η χρήση αρχείων δέσμης ενεργειών .sct είναι απενεργοποιημένη"
+msgstr ""
+"Το Περιβάλλον Διερμηνείας Windows (WSH) δε βρέθηκε - η χρήση αρχείων δέσμης "
+"ενεργειών .sct είναι απενεργοποιημένη"
 
 #, c-format
 msgid "G&o to Line %1"
 msgstr "Μετά&βαση στη Γραμμή %1"
 
 msgid "Go to Moved Line\tCtrl+Shift+G"
-msgstr ""
+msgstr "Πηγαίνετε στη Μετακινηθείσα Γραμμή\tCtrl+Shift+G"
 
-#, c-format
 msgid "Disabled"
 msgstr "Απενεργοποιημένη"
 
-#, c-format
 msgid "From file system"
 msgstr "Από Αρχειοσύστημα"
 
-#, c-format
 msgid "From Most Recently Used list"
 msgstr "Από Κατάλογο προσφάτως χρησιμοποιηθέντων"
 
-#, c-format
 msgid "No Highlighting"
 msgstr "Χωρίς Χρωματισμό Κώδικα"
 
-#, c-format
 msgid "Batch"
-msgstr ""
+msgstr "Batch"
 
-#, c-format
 msgid "Portable Object"
-msgstr ""
+msgstr "Portable Object"
 
-#, c-format
 msgid "Resources"
-msgstr ""
+msgstr "Πόροι"
 
-#, c-format
 msgid "Shell"
-msgstr ""
+msgstr "Κέλυφος"
 
-#, c-format
 msgid "Close &Left Tabs"
-msgstr ""
+msgstr "Κλείσιμο &Αριστερών Καρτελών"
 
-#, c-format
 msgid "Close R&ight Tabs"
-msgstr ""
+msgstr "Κλείσιμο &Δεξιών Καρτελών"
 
-#, c-format
 msgid "Close &Other Tabs"
-msgstr ""
+msgstr "Κλείσιμο &Αλλων Καρτελών"
 
-#, c-format
 msgid "Enable &Auto Max Width"
-msgstr ""
+msgstr "Ενεργοποίηση &Αυτόματου Μέγιστου Πλάτους"
 
 msgid "We&bpage"
-msgstr ""
+msgstr "Ιστοσελίδα"
 
 msgid "Frhed is not installed."
-msgstr ""
+msgstr "Το Frhed δεν είναι εγκατεστημένο."
 
 #, c-format
 msgid "%1 does not exist. Do you want to create it?"
-msgstr ""
+msgstr "%1 δεν υπάρχει. Θέλετε να το δημιουργήσετε;"
 
-#, c-format
 msgid "Failed to create folder."
-msgstr ""
+msgstr "Αποτυχία δημιουργίας φακέλου."
 
-#, c-format
-msgid "You can specify the following parameters to the path:\n$file: Path name of the current file\n$linenum: Line number of the current cursor position"
+msgid ""
+"You can specify the following parameters to the path:\n"
+"$file: Path name of the current file\n"
+"$linenum: Line number of the current cursor position"
 msgstr ""
+"Μπορείτε να καθορίσετε τις ακόλουθες παραμέτρους στη διαδρομή:\n"
+"$file: Όνομα διαδρομής του τρέχοντος αρχείου\n"
+"$linenum: Αριθμός γραμμής της τρέχουσας θέσης του δρομέα"
 
 msgid "default"
-msgstr ""
+msgstr "προεπιλογή"
 
 msgid "minimal"
-msgstr ""
+msgstr "ελάχιστο"
 
 msgid "patience"
-msgstr ""
+msgstr "υπομονή"
 
 msgid "histogram"
-msgstr ""
+msgstr "ιστόγραμμα"
 
 msgid "none"
-msgstr ""
+msgstr "χωρίς"
 
 msgid "GDI"
-msgstr ""
+msgstr "GDI"
 
 msgid "DirectWrite Default"
-msgstr ""
+msgstr "DirectWrite Προεπιλογή"
 
 msgid "DirectWrite Aliased"
-msgstr ""
+msgstr "DirectWrite Aliased"
 
 msgid "DirectWrite GDI Classic"
-msgstr ""
+msgstr "DirectWrite GDI Classic"
 
 msgid "DirectWrite GDI Natural"
-msgstr ""
+msgstr "DirectWrite GDI Φυσικό"
 
 msgid "DirectWrite Natural"
-msgstr ""
+msgstr "DirectWrite Natural"
 
 msgid "DirectWrite Natural Symmetric"
-msgstr ""
+msgstr "DirectWrite Natural Symmetric"
 
 msgid "MDI child window or main window"
-msgstr ""
+msgstr "Υποπαράθυρο MDI ή κύριο παράθυρο MDI"
 
 msgid "MDI child window only"
-msgstr ""
+msgstr "Μόνο υποπαράθυρο MDI"
 
 msgid "Close main window if there is only one MDI child window"
-msgstr ""
+msgstr "Κλείσιμο του κύριου παραθύρου εάν υπάρχει μόνο ένα παράθυρο MDI child"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Diff"
-msgstr ""
+msgstr "Diff"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Highlight"
-msgstr ""
+msgstr "Επισήμανση"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Blink"
-msgstr ""
+msgstr "Blink"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Block Size"
-msgstr ""
+msgstr "Μέγεθος μπλοκ"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Block Alpha"
-msgstr ""
+msgstr "Μπλοκ Alpha"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "CD Threshold"
-msgstr ""
+msgstr "CD Threshold"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Ins/Del Detection"
-msgstr ""
+msgstr "Ανίχνευση Ins/Del"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "None"
-msgstr ""
+msgstr "Χωρίς"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Vertical"
-msgstr ""
+msgstr "Κάθετα"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Horizontal"
-msgstr ""
+msgstr "Οριζόντια"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Overlay"
-msgstr ""
+msgstr "&Επικάλυψη"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha"
-msgstr ""
+msgstr "Alpha"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "XOR"
-msgstr ""
+msgstr "XOR"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha Blend"
-msgstr ""
+msgstr "Μείγμα Alpha"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha Animation"
-msgstr ""
+msgstr "Alpha Animation"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Zoom"
-msgstr ""
+msgstr "Μεγέθυνση"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Page:"
-msgstr ""
+msgstr "Σελίδα:"
 
 #, c-format
 msgid "Pt: (%d, %d)  RGBA: (%d, %d, %d, %d)  "
-msgstr ""
+msgstr "Pt: (%d, %d)  RGBA: (%d, %d, %d, %d)  "
 
 #, c-format
 msgid "Dist: %g  "
-msgstr ""
+msgstr "Dist: %g  "
 
 #, c-format
 msgid "Dist: %g, %g  "
-msgstr ""
+msgstr "Dist: %g, %g  "
 
 #, c-format
 msgid "Page: %d/%d  Zoom: %d%%  %dx%dpx  %dbpp  "
-msgstr ""
+msgstr "Σελίδα: %d/%d  Μεγέθυνση: %d%%  %dx%dpx  %dbpp "
 
 #, c-format
 msgid "Rc: (%d, %d)  "
-msgstr ""
+msgstr "Rc: (%d, %d)  "
 
 #, c-format
 msgid "Flipped: %s  "
-msgstr ""
+msgstr "Αναποδογυρισμένο: %s  "
 
 #, c-format
 msgid "Rotated: %d  "
-msgstr ""
+msgstr "Περιστρέφεται: %d "
 
 msgid "All pages"
-msgstr ""
+msgstr "Ολες οι σελίδες"
 
 msgid "<Edit here>"
-msgstr ""
+msgstr "<Επεξεργασία εδώ>"
 
 msgid "No differences to select found"
-msgstr ""
+msgstr "Δεν βρέθηκαν διαφορές προς επιλογή"
 
 msgid "No differences found to add as substitution filter"
-msgstr ""
+msgstr "Δεν βρέθηκαν διαφορές για να προστεθούν ως φίλτρο αντικατάστασης"
 
 msgid "The pair is already present in the list of Substitution Filters"
-msgstr ""
+msgstr "Το ζεύγος υπάρχει ήδη στη λίστα των Φίλτρων αντικατάστασης"
 
 msgid "Add this change to Substitution Filters?"
-msgstr ""
+msgstr "Προσθήκη αυτής της αλλαγής στα Φίλτρα Αντικατάστασης;"
 
 msgid "Text only"
-msgstr ""
+msgstr "Μόνο κείμενο"
 
 msgid "Line-by-line position and text"
-msgstr ""
+msgstr "Θέση και κείμενο ανά γραμμή"
 
 msgid "Word-by-word position and text"
-msgstr ""
+msgstr "Θέση και κείμενο λέξη προς λέξη"
 
 msgid "AppData folder"
-msgstr ""
+msgstr "Φάκελος AppData"
 
 msgid "Install folder"
-msgstr ""
+msgstr "Φάκελος εγκατάστασης"
 
-#, c-format
 msgid "Allow only one instance to run"
 msgstr "Επιτρέπεται μόνο μία υπόσταση του WinMerge ανοικτή"
 
 msgid "Allow only one instance to run and wait for the instance to terminate"
 msgstr ""
+"Επιτρέψτε την εκτέλεση μόνο μιας παρουσίας και περιμένετε να τερματιστεί η "
+"παρουσία"
 
 msgid "Al&l"
-msgstr ""
+msgstr "Ολ&α"
 
 msgid "Prettification"
-msgstr ""
+msgstr "Καλλωπισμός"
 
 msgid "Content Extraction"
-msgstr ""
+msgstr "Εξαγωγή Περιεχομένου"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Οπτικοποίηση"
 
 msgid "Data Query"
-msgstr ""
+msgstr "Ερώτηση Δεδομένων"
 
 msgid "Validation"
-msgstr ""
+msgstr "Επικύρωση"
 
 msgid "Decompilation"
-msgstr ""
+msgstr "Απομεταγλώττιση"
 
 msgid "&Others"
-msgstr ""
+msgstr "&άλλα"
 
 msgid "URL Handling"
-msgstr ""
+msgstr "Χειρισμός URL"
 
 msgid "Make Uppercase"
-msgstr ""
+msgstr "Μετατροπή σε κεφαλαία"
 
 msgid "Make Lowercase"
-msgstr ""
+msgstr "Μετατροπή σε πεζούς"
 
 msgid "Remove Duplicate Lines"
-msgstr ""
+msgstr "Αφαίρεση Διπλών Γραμμών"
 
 msgid "Count Duplicate Lines"
-msgstr ""
+msgstr "Αριθμός Διπλότυπων Δεξιού"
 
 msgid "Sort Lines Ascending"
-msgstr ""
+msgstr "Ταξινόμηση Γραμμών με Αύξουσα Σειρά"
 
 msgid "Sort Lines Descending"
-msgstr ""
+msgstr "Ταξινόμηση Γραμμών με Φθίνουσα Σειρά"
 
 msgid "Reverse Columns"
-msgstr ""
+msgstr "Αντίστροφες Στήλες"
 
 msgid "Reverse Lines"
-msgstr ""
+msgstr "Αντίστροφες Γραμμές"
 
 msgid "Replace..."
-msgstr ""
+msgstr "Αντικατάσταση..."
 
 msgid "Apply Filter Command..."
-msgstr ""
+msgstr "Εντολή Εφαρμογής Φίλτρου..."
 
 msgid "Tokenize..."
-msgstr ""
+msgstr "Tokenize..."
 
 msgid "Trim Spaces"
-msgstr ""
+msgstr "Εισαγωγή Κενών Διαστημάτων"
 
 msgid "Select Columns..."
-msgstr ""
+msgstr "Επιλέξτε Στήλες..."
 
 msgid "Select Lines..."
-msgstr ""
+msgstr "Επιλέξτε Γραμμές..."
 
 msgid "Insert Date"
-msgstr ""
+msgstr "Εισαγωγή Ημερομηνίας"
 
 msgid "Insert Time"
-msgstr ""
+msgstr "Εισαγωγή Ωρας"
 
 msgid "Apply Patch..."
-msgstr ""
+msgstr "Εφαρμογή Patch..."
 
 msgid "Ignore Columns"
-msgstr ""
+msgstr "Αγνόηση Στηλών"
 
 msgid "Ignore Comments (C-Family Languages)"
-msgstr ""
+msgstr "Αγνόηση Σχόλιων (Γλώσσες της Οικογένειας C)"
 
 msgid "Ignore CSV Fields"
-msgstr ""
+msgstr "Αγνοήστε τα πεδία CSV"
 
 msgid "Ignore TSV Fields"
-msgstr ""
+msgstr "Αγνόηση πεδίων TSV"
 
 msgid "Apply Prediff Substitution Filters"
-msgstr ""
+msgstr "Εφαρμογή φίλτρων Αντικατάστασης Prediff"
 
 msgid "Prettify HTML"
-msgstr ""
+msgstr "Καλλωπισμός HTML"
 
 msgid "Prettify JSON"
-msgstr ""
+msgstr "Καλλωπισμός JSON"
 
 msgid "Prettify XML"
-msgstr ""
+msgstr "Καλλωπισμός XML"
 
 msgid "Prettify YAML"
-msgstr ""
+msgstr "Καλλωπισμός YAML"
 
 msgid "Visualize Graphviz"
-msgstr ""
+msgstr "Οπτικοποίηση Graphviz"
 
 msgid "Query CSV Data..."
-msgstr ""
+msgstr "Αίτημα δεδομένων CSV..."
 
 msgid "Query TSV Data..."
-msgstr ""
+msgstr "Αίτημα δεδομένων TSV..."
 
 msgid "Query JSON Data..."
-msgstr ""
+msgstr "Αίτημα δεδομένων JSON..."
 
 msgid "Query YAML Data..."
-msgstr ""
+msgstr "Αίτημα δεδομένων YAML..."
 
 msgid "Validate HTML"
-msgstr ""
+msgstr "Επικύρωση HTML"
 
 msgid "Disassemble JVM Bytecode"
-msgstr ""
+msgstr "Αποσυναρμολόγηση JVM Bytecode"
 
 msgid "Disassemble IL Code"
-msgstr ""
+msgstr "Αποσυναρμολόγηση κώδικα IL"
 
 msgid "Disassemble Native Code"
-msgstr ""
+msgstr "Αποσυναρμολόγηση Εγγενούς Κώδικα"
 
 #, c-format
 msgid "Missing plugin name in plugin pipeline: %1"
-msgstr ""
+msgstr "Λείπει το όνομα του αρθρώματος στον αγωγό του αρθρώματος: %1"
 
 #, c-format
 msgid "Missing quotation mark in plugin pipeline: %1"
-msgstr ""
+msgstr "Λείπουν εισαγωγικά στην αγωγό προσθήκης: %1"
 
 msgid "Specify plugin arguments"
-msgstr ""
+msgstr "Ορίσματα Αρθρωμάτων"
 
 msgid "Make characters uppercase"
-msgstr ""
+msgstr "Ορισμός χαρακτήρων σε κεφαλαία"
 
 msgid "Make characters lowercase"
-msgstr ""
+msgstr "Ορισμός χαρακτήρων σε πεζούς"
 
 msgid "Remove duplicate lines"
-msgstr ""
+msgstr "Αφαίρεση διπλών γραμμών"
 
 msgid "Count duplicate lines"
-msgstr ""
+msgstr "Αριθμός διπλότυπων δεξιού"
 
 msgid "Sort lines ascending"
-msgstr ""
+msgstr "Ταξινόμηση γραμμών με αύξουσα σειρά"
 
 msgid "Sort lines descending"
-msgstr ""
+msgstr "Ταξινόμηση γραμμών με φθίνουσα σειρά"
 
 msgid "Reverse columns"
-msgstr ""
+msgstr "Αντίστροφες στήλες"
 
 msgid "Reverse lines"
-msgstr ""
+msgstr "Αντίστροφες γραμμές"
 
-msgid "Replace text with another text.\r\nUsage: Replace [-i] [-e] FIND REPLACE\r\n  FIND    - text to find\r\n  REPLACE - text to replace\r\n  -i - ignore case (only for -e)\r\n  -e - treat the specified text as a regular expression"
+msgid ""
+"Replace text with another text.\r\n"
+"Usage: Replace [-i] [-e] FIND REPLACE\r\n"
+"  FIND    - text to find\r\n"
+"  REPLACE - text to replace\r\n"
+"  -i - ignore case (only for -e)\r\n"
+"  -e - treat the specified text as a regular expression"
 msgstr ""
+"Αντικατάσταση κειμένου με άλλο κείμενο.\r\n"
+"Χρήση: Αντικατάσταση [-i] [-e] FIND REPLACE\r\n"
+"  FIND - κείμενο στο find\r\n"
+"  REPLACE - κείμενο προς αντικατάσταση\r\n"
+"  -i - αγνόηση πεζών-κεφαλαίων (μόνο για -e)\r\n"
+"  -e - μεταχειρίζεται το καθορισμένο κείμενο ως κανονική έκφραση"
 
 #, c-format
-msgid "Apply filter command. \r\nUsage: ExecFilterCommand COMMAND\r\n  COMMAND - command to execute. %1 in the command is replaced with the filename."
+msgid ""
+"Apply filter command. \r\n"
+"Usage: ExecFilterCommand COMMAND\r\n"
+"  COMMAND - command to execute. %1 in the command is replaced with the "
+"filename."
 msgstr ""
+"Εντολή εφαρμογής φίλτρου. \r\n"
+"Χρήση: ExecFilterCommand COMMAND\r\n"
+"  COMMAND - εντολή προς εκτέλεση. Το %1 στην εντολή αντικαθίσταται με το "
+"όνομα αρχείου."
 
-msgid "Tokenize selection. \r\nUsage: Tokenize PATTERNS\r\n  PATTERNS - regular expression for tokenizing. (e.g. [^\\w]+)"
+msgid ""
+"Tokenize selection. \r\n"
+"Usage: Tokenize PATTERNS\r\n"
+"  PATTERNS - regular expression for tokenizing. (e.g. [^\\w]+)"
 msgstr ""
+"Επιλογή tokenize . \r\n"
+"Χρήση: Tokenize PATTERNS\r\n"
+"  PATTERNS - κανονική έκφραση για την κωδικοποίηση συμβόλων. (π.χ. [^\\w]+)"
 
 msgid "Trim spaces"
-msgstr ""
+msgstr "Εισαγωγή κενών διαστημάτων"
 
-msgid "Select some columns.\r\nUsage: SelectColumns RANGES\r\n   or: SelectColumns [-v] [-i] [-g] -e PATTERNS\r\n  RANGES   - list of column ranges to select. (e.g. -3,5-10,30-)\r\n  PATTERNS - regular expression\r\n  -v - select non-matching columns\r\n  -i - ignore case\r\n  -g - enable global flag\r\n  -e - use PATTERNS for matching"
+msgid ""
+"Select some columns.\r\n"
+"Usage: SelectColumns RANGES\r\n"
+"   or: SelectColumns [-v] [-i] [-g] -e PATTERNS\r\n"
+"  RANGES   - list of column ranges to select. (e.g. -3,5-10,30-)\r\n"
+"  PATTERNS - regular expression\r\n"
+"  -v - select non-matching columns\r\n"
+"  -i - ignore case\r\n"
+"  -g - enable global flag\r\n"
+"  -e - use PATTERNS for matching"
 msgstr ""
+"Επιλέξτε ορισμένες στήλες.\r\n"
+"Χρήση: SelectColumns RANGES\r\n"
+"   ή: SelectColumns [-v] [-i] [-g] -e ΜΟΤΊΒΑ\r\n"
+"  RANGES   - λίστα με τις περιοχές των στηλών προς επιλογή. (π.χ. "
+"-3,5-10,30-)\r\n"
+"  PATTERNS - κανονική έκφραση\r\n"
+"  -v - επιλογή μη ταιριαστών στηλών\r\n"
+"  -i - αγνόηση πεζών-κεφαλαίων\r\n"
+"  -g - ενεργοποίηση καθολικής σημαίας\r\n"
+"  -e - χρήση PATTERNS για αντιστοίχιση"
 
-msgid "Select some lines.\r\nUsage: SelectLines RANGES\r\n   or: SelectLines [-v] [-i] -e PATTERNS\r\n  RANGES   - list of line ranges to select. (e.g. -3,5-10,30-)\r\n  PATTERNS - regular expression\r\n  -v - select non-matching lines\r\n  -i - ignore case\r\n  -e - use PATTERNS for matching"
+msgid ""
+"Select some lines.\r\n"
+"Usage: SelectLines RANGES\r\n"
+"   or: SelectLines [-v] [-i] -e PATTERNS\r\n"
+"  RANGES   - list of line ranges to select. (e.g. -3,5-10,30-)\r\n"
+"  PATTERNS - regular expression\r\n"
+"  -v - select non-matching lines\r\n"
+"  -i - ignore case\r\n"
+"  -e - use PATTERNS for matching"
 msgstr ""
+"Επιλέξτε μερικές γραμμές.\r\n"
+"Χρήση: SelectLines RANGES\r\n"
+"   ή: SelectLines [-v] [-i] -e PATTERNS\r\n"
+"  RANGES   - λίστα με τις περιοχές γραμμών που μπορείτε να επιλέξετε. (π.χ. "
+"-3,5-10,30-)\r\n"
+"  PATTERNS - κανονική έκφραση\r\n"
+"  -v - επιλογή μη ταιριαστών γραμμών\r\n"
+"  -i - αγνόηση πεζών-κεφαλαίων\r\n"
+"  -e - χρήση PATTERNS για την αντιστοίχιση"
 
-msgid "HTML Prettier with tidy-html5. \r\nArguments: Command line options passed to the tidy command."
+msgid ""
+"HTML Prettier with tidy-html5. \r\n"
+"Arguments: Command line options passed to the tidy command."
 msgstr ""
+"HTML Prettier με tidy-html5. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή tidy."
 
-msgid "JSON Prettier with jq command. \r\nArguments: Filter or command line options passed to the jq command."
+msgid ""
+"JSON Prettier with jq command. \r\n"
+"Arguments: Filter or command line options passed to the jq command."
 msgstr ""
+"JSON Prettier με την εντολή jq. \r\n"
+"Ορίσματα: Φίλτρο ή επιλογές γραμμής εντολών που περνούν στην εντολή jq."
 
-msgid "XML Prettier with tidy-html5. \r\nArguments: Command line options passed to the tidy command."
+msgid ""
+"XML Prettier with tidy-html5. \r\n"
+"Arguments: Command line options passed to the tidy command."
 msgstr ""
+"XML Prettier με tidy-html5. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή tidy."
 
-msgid "YAML Prettier with yq command. \r\nArguments: Filter or command line options passed to the yq command."
+msgid ""
+"YAML Prettier with yq command. \r\n"
+"Arguments: Filter or command line options passed to the yq command."
 msgstr ""
+"YAML Prettier με την εντολή yq. \r\n"
+"Ορίσματα: Φίλτρο ή επιλογές γραμμής εντολών που μεταβιβάζονται στην εντολή "
+"yq."
 
-msgid "Graphviz Visualizer. \r\nArguments: Command line options passed to the dot command."
+msgid ""
+"Graphviz Visualizer. \r\n"
+"Arguments: Command line options passed to the dot command."
 msgstr ""
+"Οπτικοποιητής Graphviz. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή dot."
 
-msgid "CSV Querier with q command. \r\nArguments: SQL statement or command line options passed to the q command."
+msgid ""
+"CSV Querier with q command. \r\n"
+"Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
+"CSV Querier με την εντολή q. \r\n"
+"Επιχειρήματα: Δήλωση SQL ή επιλογές γραμμής εντολών που μεταβιβάζονται στην "
+"εντολή q."
 
-msgid "TSV Querier with q command. \r\nArguments: SQL statement or command line options passed to the q command."
+msgid ""
+"TSV Querier with q command. \r\n"
+"Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
+"TSV Querier με την εντολή q. \r\n"
+"Ορίσματα: Δήλωση SQL ή επιλογές γραμμής εντολών που μεταβιβάζονται στην "
+"εντολή q."
 
-msgid "JSON Querier with jq command. \r\nArguments: Filter or command line options passed to the jq command."
+msgid ""
+"JSON Querier with jq command. \r\n"
+"Arguments: Filter or command line options passed to the jq command."
 msgstr ""
+"JSON Querier με την εντολή jq. \r\n"
+"Ορίσματα: Φίλτρο ή επιλογές γραμμής εντολών που περνούν στην εντολή jq."
 
-msgid "YAML Querier with yq command. \r\nArguments: Filter or command line options passed to the yq command."
+msgid ""
+"YAML Querier with yq command. \r\n"
+"Arguments: Filter or command line options passed to the yq command."
 msgstr ""
+"YAML Querier με την εντολή yq. \r\n"
+"Ορίσματα: Φίλτρο ή επιλογές γραμμής εντολών που μεταβιβάζονται στην εντολή "
+"yq."
 
-msgid "HTML Validator with tidy-html5. \r\nArguments: Command line options passed to the tidy command."
+msgid ""
+"HTML Validator with tidy-html5. \r\n"
+"Arguments: Command line options passed to the tidy command."
 msgstr ""
+"Επικυρωτής HTML με tidy-html5. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή tidy."
 
-msgid "JVM bytecode disassembler with javap. \r\nArguments: Command line options passed to the javap command."
+msgid ""
+"JVM bytecode disassembler with javap. \r\n"
+"Arguments: Command line options passed to the javap command."
 msgstr ""
+"Αποσυναρμολόγηση bytecode JVM με javap. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή javap."
 
-msgid "IL disassembler with ildasm. \r\nArguments: Command line options passed to the ildasm command."
+msgid ""
+"IL disassembler with ildasm. \r\n"
+"Arguments: Command line options passed to the ildasm command."
 msgstr ""
+"IL disassembler με ildasm. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή ildasm."
 
-msgid "Native code disassembler with dumpbin. \r\nArguments: Command line options passed to the dumpbin command."
+msgid ""
+"Native code disassembler with dumpbin. \r\n"
+"Arguments: Command line options passed to the dumpbin command."
 msgstr ""
+"Αποσυναρμολογητής εγγενούς κώδικα με dumpbin. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή dumpbin."
 
-msgid "General content extractor with Apache Tika. \r\nArguments: Command line options passed to the tika-app.jar."
+msgid ""
+"General content extractor with Apache Tika. \r\n"
+"Arguments: Command line options passed to the tika-app.jar."
 msgstr ""
+"Εξαγωγέας γενικού περιεχομένου με Apache Tika. \r\n"
+"Ορίσματα: Οι επιλογές γραμμής εντολών μεταβιβάστηκαν στο tika-app.jar."
 
 msgid "Apply patch using GnuWin32 Patch for Windows"
-msgstr ""
+msgstr "Εφαρμόστε το patch χρησιμοποιώντας το GnuWin32 Patch for Windows"
 
 msgid "Display the text content of MS Excel files"
-msgstr ""
+msgstr "Εμφάνιση του περιεχομένου κειμένου των αρχείων MS Excel"
 
 msgid "Display the text content of MS PowerPoint files"
-msgstr ""
+msgstr "Εμφάνιση του περιεχομένου κειμένου των αρχείων MS PowerPoint"
 
 msgid "Display the text content of MS Visio files"
-msgstr ""
+msgstr "Εμφάνιση του περιεχομένου κειμένου των αρχείων MS Visio"
 
 msgid "Display the text content of MS Word files"
-msgstr ""
+msgstr "Εμφάνιση του περιεχομένου κειμένου των αρχείων MS Word"
 
-msgid "Ignore some columns - ignored columns list from the plugin name or the plugin argument"
+msgid ""
+"Ignore some columns - ignored columns list from the plugin name or the "
+"plugin argument"
 msgstr ""
+"Αγνοήστε ορισμένες στήλες - λίστα αγνοούμενων στηλών από το όνομα του "
+"αρθρώματος ή το όρισμα του αρθρώματος"
 
-msgid "The plugin ignores comments (//... and /* ... */) in C, C++, PHP and JavaScript files."
+msgid ""
+"The plugin ignores comments (//... and /* ... */) in C, C++, PHP and "
+"JavaScript files."
 msgstr ""
+"Το άρθρωμα αγνοεί τα σχόλια (//... και /* ... */) σε αρχεία C, C++, PHP και "
+"JavaScript."
 
-msgid "Ignore some fields - ignored fields list from the plugin name or the plugin argument"
+msgid ""
+"Ignore some fields - ignored fields list from the plugin name or the plugin "
+"argument"
 msgstr ""
+"Αγνοήστε ορισμένα πεδία - λίστα αγνοούμενων πεδίων από το όνομα του "
+"αρθρώματος ή το όρισμα του αρθρώματος"
 
 msgid "Prediff Line Filter"
-msgstr ""
+msgstr "Φίλτρο γραμμής Prediff"
 
 msgid "Basic text functions for the context menu"
-msgstr ""
+msgstr "Βασικές λειτουργίες κειμένου για το μενού περιβάλλοντος"
 
-msgid "HTTP URL Scheme Handler with curl. \r\nArguments: Command line options passed to the curl command."
+msgid ""
+"HTTP URL Scheme Handler with curl. \r\n"
+"Arguments: Command line options passed to the curl command."
 msgstr ""
+"Χειριστής σχήματος URL HTTP με curl. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που περνούν στην εντολή curl."
 
-msgid "Windows Registry URL Scheme Handler. \r\nArguments: Command line options passed to the reg.exe command."
+msgid ""
+"Windows Registry URL Scheme Handler. \r\n"
+"Arguments: Command line options passed to the reg.exe command."
 msgstr ""
+"Χειριστής σχήματος URL μητρώου των Windows. \r\n"
+"Ορίσματα: Επιλογές γραμμής εντολών που μεταβιβάζονται στην εντολή reg.exe."
 
 msgid "Filter applied"
-msgstr ""
+msgstr "Εφαρμοσμένο φίλτρο"
 
 #, c-format
 msgid "Clipboard at %s"
-msgstr ""
+msgstr "Πρόχειρο στο %s"
 
-msgid "Clipboard history is disabled.\r\nTo enable clipboard history, press Windows logo key + V and then click the Turn on button."
+msgid ""
+"Clipboard history is disabled.\r\n"
+"To enable clipboard history, press Windows logo key + V and then click the "
+"Turn on button."
 msgstr ""
+"Το ιστορικό του πρόχειρου είναι απενεργοποιημένο.\r\n"
+"Για να ενεργοποιήσετε το ιστορικό του πρόχειρου, πατήστε το πλήκτρο λογότυπο "
+"των Windows + V και, στη συνέχεια, κάντε κλικ στο κουμπί Ενεργοποίηση."
 
 msgid "This system does not support clipboard history."
-msgstr ""
+msgstr "Αυτό το σύστημα δεν υποστηρίζει ιστορικό πρόχειρου."
 
 msgid "The 32-bit version of WinMerge does not support Clipboard Compare"
-msgstr ""
+msgstr "Η έκδοση 32-bit του WinMerge δεν υποστηρίζει την Σύγκριση πρόχειρου"
 
 msgid "WebView2 runtime is not installed. Do you want to download it?"
 msgstr ""
+"Το περιβάλλον εκτέλεσης WebView2 δεν έχει εγκατασταθεί. Θέλετε να το "
+"κατεβάσετε;"
